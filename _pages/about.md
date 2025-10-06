@@ -11,7 +11,8 @@ I am a master student in Computer Science at Tongji University, expected to grad
 
 ## **📢 Actively Seeking 2026 Fall PhD Positions**
 
-<span style="color:red;">I am actively seeking PhD opportunities starting Fall 2026. I would be thrilled to work with prospective advisors and research groups focusing on multimodal retrieval and generation and reasoning with multimodal large language models, and I warmly welcome any chance to discuss research ideas or potential projects.</span>
+<span style="color:red;">I am actively seeking PhD opportunities starting Fall 2026. I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.</span>
+
 
 ## Research Interests
 
