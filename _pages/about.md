@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
 
 I am a master student in Computer Science at Tongji University, expected to graduate in March 2026. My research primarily focuses on **multimodal AI**, including **multimodal retrieval and generation**, **reasoning with multimodal large language models**, and **multimodal federated learning**. My work aims to advance the capability of AI systems to understand, generate, and reason across multiple modalities while addressing challenges such as data heterogeneity, privacy constraints, and model efficiency.
 
