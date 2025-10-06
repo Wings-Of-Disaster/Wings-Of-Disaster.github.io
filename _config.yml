@@ -13,10 +13,10 @@ title                    : "Junming Liu"
 title_separator          : "-"
 name                     : &name "Junming Liu"
 description              : &description "Junming Liu's academic portfolio"
-url                      : https://wings-of-disaster.github.io/jmliu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://Wings-Of-Disaster.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Wings-Of-Disaster/jmliu.github.io"
+repository               : "Wings-Of-Disaster/Wings-Of-Disaster.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
