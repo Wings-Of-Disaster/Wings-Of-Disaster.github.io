@@ -24,7 +24,7 @@ I am a master student in Computer Science at Tongji University, expected to grad
 <div class='paper-box-text' markdown="1">
 
 Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning \\
-**Junming Liu**, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, D Wang
+**Junming Liu**, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, D Wang, B Shi
 
 [**Project**](https://github.com/Wings-Of-Disaster/VaLiK) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/Wings-Of-Disaster/VaLiK)
@@ -41,9 +41,6 @@ P Liu, X Liu, R Yao, **Junming Liu**, S Meng, D Wang, J Ma.
 [**Project**](https://github.com/ocean-luna/HMRAG) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/ocean-luna/HMRAG)
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TR Part A: Policy and Practice 2021</div><img src='images/matsim.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
 For a complete list of publications, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US).
