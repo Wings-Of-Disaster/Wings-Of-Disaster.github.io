@@ -51,7 +51,7 @@ SIGMETRICS 2026 (Under Review) [[arxiv]](https://arxiv.org/abs/2505.19699) [[git
 
 **From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation**  
 Siyuan Meng\*, Junming Liu\*, Yirong Chen, Song Mao, Pinlong Cai, Guohang Yan, Botian Shi, Ding Wang†  
-ACL 2026 (Under Review) [[arxiv]](https://www.arxiv.org/abs/2508.09497) [[github]](https://github.com/HetaTeam/LLM-Reranker)
+EDBT 2026 (Under Review) [[arxiv]](https://www.arxiv.org/abs/2508.09497) [[github]](https://github.com/HetaTeam/LLM-Reranker)
 
 **TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling**  
 Yifei Sun, Junming Liu, Yirong Chen, Ding Wang†, Xuefeng Yan†  
