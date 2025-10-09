@@ -3,5 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_to: /files/CV.pdf
 ---
+
+<meta http-equiv="refresh" content="0; url=/files/CV.pdf">
