@@ -9,7 +9,7 @@ redirect_from:
 
 I am a master student in Computer Science at Tongji University, expected to graduate in March 2026. My research primarily focuses on **multimodal intelligence**, including **multimodal retrieval and generation**, **reasoning with multimodal large language models**, and **their interaction in distributed environments**. My work aims to advance the capability of AI systems to understand and reason across multiple modalities while addressing challenges such as privacy preservation, trustworthy reasoning, and model efficiency.
 
-## **📢 Actively Seeking 2026 Fall PhD Positions**
+## 📢 Actively Seeking 2026 Fall PhD Positions
 
 <span style="color:red;">I am actively seeking PhD opportunities starting Fall 2026. I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.</span>
 
