@@ -20,7 +20,7 @@ I am a master student in Computer Science at Tongji University, expected to grad
 ## 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">**ICCV 2025**</div><img src='images/valik.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background:#ff4757; font-weight:bold;">ICCV 2025</div><img src='images/valik.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning** \\
@@ -32,7 +32,7 @@ I am a master student in Computer Science at Tongji University, expected to grad
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">**ACM MM 2025**</div><img src='images/hmrag.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background:#3742fa; font-weight:bold;">ACM MM 2025</div><img src='images/hmrag.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation** \\
