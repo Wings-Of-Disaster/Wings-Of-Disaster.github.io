@@ -18,7 +18,7 @@ Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng, Ding Wang†, Jun Ma†
 ACM MM 2025 (Accepted). [[arxiv]](https://arxiv.org/abs/2504.12330) [[github]](https://github.com/ocean-luna/HMRAG)
 
 **AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis**  
-Yujin Kang*, Junming Liu*, Haiyan Cui†  
+Yujin Kang\*, Junming Liu\*, Haiyan Cui†  
 Aesthetic Plastic Surgery (Accepted)
 
 **Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**  
@@ -30,7 +30,7 @@ Junming Liu, Yifei Sun, Weihuang Cheng, Yujin Kang, Yirong Chen, Ding Wang†, G
 WACV 2026 (Under Review)
 
 **AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
-Aoqi Wu*, Junming Liu*, Evelyn Zhang, Weiquan Huang, Yifan Yang, Jiaxing Miao, Qi Zhang, Lai Zhong Yuan, Liang Hu†  
+Aoqi Wu\*, Junming Liu\*, Evelyn Zhang, Weiquan Huang, Yifan Yang, Jiaxing Miao, Qi Zhang, Lai Zhong Yuan, Liang Hu†  
 AAAI 2026 (Under Review)
 
 **FedRecon: Missing Modality Reconstruction in Heterogeneous Distributed Environments**  
@@ -42,7 +42,7 @@ Junming Liu, Yanting Gao, Siyuan Meng, Yifei Sun, Yirong Chen, Ding Wang†, Guo
 SIGMETRICS 2026 (Under Review) [[arxiv]](https://arxiv.org/abs/2505.19699) [[github]](https://github.com/Wings-Of-Disaster/Mosaic)
 
 **From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation**  
-Siyuan Meng*, Junming Liu*, Yirong Chen, Song Mao, Pinlong Cai, Guohang Yan, Botian Shi, Ding Wang†  
+Siyuan Meng\*, Junming Liu\*, Yirong Chen, Song Mao, Pinlong Cai, Guohang Yan, Botian Shi, Ding Wang†  
 ACL 2026 (Under Review) [[arxiv]](https://www.arxiv.org/abs/2508.09497) [[github]](https://github.com/HetaTeam/LLM-Reranker)
 
 **TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling**  
