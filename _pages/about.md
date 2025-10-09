@@ -14,19 +14,20 @@ I am a master student in Computer Science at Tongji University, expected to grad
 <span style="color:red;">I am actively seeking PhD opportunities starting Fall 2026. I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.</span>
 
 
+<!-- --------------------------------------------------------------- -->
+
 
 ## 📝 Selected Publications 
 
 <div class='paper-box' style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div class='paper-box-image' style="flex:0 0 200px; margin-right:20px;">
     <div>
-      <div class="badge">ICCV 2025</div>
-      <img src='images/valik.jpg' alt="VaLiK" width="100%">
+      <div class="badge">ICCV 2025</div><img src='images/valik.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' style="flex:1; font-size:14px; line-height:1.4;" markdown="1">
-_<ins>Junming Liu</ins>_, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **Ding Wang***  
-**VaLiK: Vision-and-Language Knowledge Distillation for Multimodal Large Language Models**
+**Junming Liu**, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, D Wang, B Shi  
+**Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**
 
 [**Project**](https://github.com/Wings-Of-Disaster/VaLiK) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>  
 [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/Wings-Of-Disaster/VaLiK)
@@ -36,12 +37,11 @@ _<ins>Junming Liu</ins>_, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B 
 <div class='paper-box' style="display:flex; align-items:flex-start; margin-bottom:20px;">
   <div class='paper-box-image' style="flex:0 0 200px; margin-right:20px;">
     <div>
-      <div class="badge">ACM MM 2025</div>
-      <img src='images/hmrag.jpg' alt="HM-RAG" width="100%">
+      <div class="badge">ACM MM 2025</div><img src='images/hmrag.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' style="flex:1; font-size:14px; line-height:1.4;" markdown="1">
-Pei Liu, Xin Liu, Ruoyu Yao, _<ins>Junming Liu</ins>_, Siyuan Meng, **Ding Wang***, Jun Ma*  
+P Liu, X Liu, R Yao, **Junming Liu**, S Meng, D Wang, J Ma  
 **HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation**
 
 [**Project**](https://github.com/ocean-luna/HMRAG) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>  
@@ -52,6 +52,8 @@ Pei Liu, Xin Liu, Ruoyu Yao, _<ins>Junming Liu</ins>_, Siyuan Meng, **Ding Wang*
 
 For a complete list of publications, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US).
 
+
+<!-- --------------------------------------------------------------- -->
 
 
 ## Professional Service
