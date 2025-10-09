@@ -13,6 +13,10 @@ I am a master student in Computer Science at Tongji University, expected to grad
 
 <span style="color:red;">I am actively seeking PhD opportunities starting Fall 2026. I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.</span>
 
+## 📖 Educations
+- *2023.09 - 2026.03*, Master, Tongji University, Shanghai, China.
+- *2019.09 - 2023.06*, Undergraduate, Dalian Maritime University, Dalian, China.
+
 
 <!-- --------------------------------------------------------------- -->
 
@@ -32,7 +36,6 @@ I am a master student in Computer Science at Tongji University, expected to grad
 
 **HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation (ACM MM 2025)** \\
 P Liu, X Liu, R Yao, **Junming Liu**, S Meng, D Wang, J Ma.
-
 
 
 For a complete list of publications, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US).
