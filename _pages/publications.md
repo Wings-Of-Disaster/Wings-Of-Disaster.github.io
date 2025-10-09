@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 Most recent publications on [Google Scholar](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US).  
-\* denotes co-first authors,
-† denotes corresponding author/main advisor
+\* denotes co-first authors.  
+† denotes corresponding author.
 
 ### Accepted Papers
 
@@ -33,8 +33,8 @@ PRCV 2025 (Accepted) [[arxiv]](https://arxiv.org/abs/2506.06992)
 Junming Liu, Yifei Sun, Weihuang Cheng, Yujin Kang, Yirong Chen, Ding Wang†, Guosun Zeng†  
 WACV 2026 (Under Review)
 
-**Domain-Adaptive Model Merging Across Disconnected Modes**
-Junming Liu, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu
+**Domain-Adaptive Model Merging Across Disconnected Modes**  
+Junming Liu, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu  
 ICASSP 2026 (Under Review)
 
 **AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
