@@ -13,15 +13,35 @@ I am a master student in Computer Science at Tongji University, expected to grad
 
 <span style="color:red;">I am actively seeking PhD opportunities starting Fall 2026. I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.</span>
 
-## Publications & Selected Works
 
-I have published multiple works in top-tier conferences, focusing on multimodal AI and reasoning. Some representative works include:
 
-**[Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning](https://arxiv.org/abs/2503.12972)** (ICCV 2025, Accepted)  
+## 📝 Selected Publications 
 
-**[Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2504.12330)** (ACM MM 2025, Accepted)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/valik.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+VaLiK: Vision-and-Language Knowledge Distillation for Multimodal Large Language Models \\
+J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **Ding Wang***
+
+[**Project**](https://github.com/Wings-Of-Disaster/VaLiK) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/Wings-Of-Disaster/VaLiK)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/hmrag.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation \\
+Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng,**Ding Wang***, Jun Ma*.
+
+[**Project**](https://github.com/ocean-luna/HMRAG) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/ocean-luna/HMRAG)
+</div>
+</div>
 
 For a complete list of publications, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US).
+
+
 
 ## Professional Service
 
