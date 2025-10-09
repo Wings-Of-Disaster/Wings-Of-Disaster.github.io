@@ -7,7 +7,8 @@ author_profile: true
 
 Most recent publications on [Google Scholar](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US).  
 \* denotes co-first authors
-<sup>†</sup> denotes corresponding author/main advisor
+
+† denotes corresponding author/main advisor
 
 **Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**  
 Junming Liu, Siyuan Meng, Yanting Gao, Song Mao, Pinlong Cai, Guohang Yan, Yirong Chen, Zilin Bian, Ding Wang†, Botian Shi  
