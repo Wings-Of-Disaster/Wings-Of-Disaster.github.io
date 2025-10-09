@@ -20,8 +20,7 @@ I am a master student in Computer Science at Tongji University, expected to grad
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICCV 2025</div>
-      <img src='/assets/images/valik.png' alt="VaLiK" style="width:100%;">
+      <img src='/images/valik.png' alt="VaLiK" style="width:100%;">
     </div>
   </div>
   <div class='paper-box-text' style="font-size:14px; line-height:1.4;" markdown="1">
@@ -34,7 +33,7 @@ J Liu, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, B Shi, **Ding Wang***
 </div>
 
 
-<img src='/assets/images/hmrag.jpg' alt="HM-RAG" style="width:100%;">
+<img src='/images/hmrag.jpg' alt="HM-RAG" style="width:100%;">
 <div class='paper-box-text' style="font-size:14px; line-height:1.4;" markdown="1">
 HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation  
 Pei Liu, Xin Liu, Ruoyu Yao, Junming Liu, Siyuan Meng, **Ding Wang***, Jun Ma*
