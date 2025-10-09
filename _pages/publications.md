@@ -34,7 +34,7 @@ Junming Liu, Yifei Sun, Weihuang Cheng, Yujin Kang, Yirong Chen, Ding Wang†, G
 WACV 2026 (Under Review)
 
 **Domain-Adaptive Model Merging Across Disconnected Modes**  
-Junming Liu, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu  
+Junming Liu, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu†  
 ICASSP 2026 (Under Review)
 
 **AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
