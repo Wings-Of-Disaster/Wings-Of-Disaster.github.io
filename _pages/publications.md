@@ -50,7 +50,7 @@ EUROGRAPHICS 2026 (Under Review) [[arxiv]](https://arxiv.org/abs/2504.09941) [[g
 SIGMETRICS 2026 (Under Review) [[arxiv]](https://arxiv.org/abs/2505.19699) [[github]](https://github.com/Wings-Of-Disaster/Mosaic)
 
 **Decoupling from Trajectory Inertia and Embracing Observation-First Decisions: A Memory-Driven Framework for GUI Agents**
-Weihua Cheng, Ersheng Ni, Wenlong Wang, Yifei Sun, *<ins>Junming Liu</ins>*, Wangyu Shen, Yirong Chen, Botian Shi and Ding Wang†
+Weihua Cheng, Ersheng Ni, Wenlong Wang, Yifei Sun, *<ins>Junming Liu</ins>*, Wangyu Shen, Yirong Chen, Botian Shi and Ding Wang†  
 WWW 2026 (Under Review)
 
 **From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation**  
