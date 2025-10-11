@@ -49,6 +49,10 @@ EUROGRAPHICS 2026 (Under Review) [[arxiv]](https://arxiv.org/abs/2504.09941) [[g
 *<ins>Junming Liu</ins>*, Yanting Gao, Siyuan Meng, Yifei Sun, Yirong Chen, Ding Wang†, Guosun Zeng†  
 SIGMETRICS 2026 (Under Review) [[arxiv]](https://arxiv.org/abs/2505.19699) [[github]](https://github.com/Wings-Of-Disaster/Mosaic)
 
+**Decoupling from Trajectory Inertia and Embracing Observation-First Decisions: A Memory-Driven Framework for GUI Agents**
+Weihua Cheng, Ersheng Ni, Wenlong Wang, Yifei Sun, *<ins>Junming Liu</ins>*, Wangyu Shen, Yirong Chen, Botian Shi and Ding Wang†
+WWW 2026 (Under Review)
+
 **From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation**  
 Siyuan Meng\*, *<ins>Junming Liu</ins>*\*, Yirong Chen, Song Mao, Pinlong Cai, Guohang Yan, Botian Shi, Ding Wang†  
 EDBT 2026 (Under Review) [[arxiv]](https://www.arxiv.org/abs/2508.09497) [[github]](https://github.com/HetaTeam/LLM-Reranker)
