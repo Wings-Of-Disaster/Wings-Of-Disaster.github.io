@@ -7,6 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+
+<style>
+a {
+  color: #333333; 
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #111111; 
+  text-decoration: underline;
+}
+</style>
+
+
 I am a master student in Computer Science at Tongji University, expected to graduate in March 2026. My research primarily focuses on **multimodal intelligence**, including **multimodal retrieval and generation**, **reasoning with multimodal large language models**, and **multi-agent interaction in distributed environments**. My work aims to advance the capability of AI systems to understand and reason across multiple modalities while addressing challenges such as privacy preservation, trustworthy reasoning, and model efficiency.
 
 ## 📢 Actively Seeking 2026 Fall PhD Positions
@@ -61,7 +76,7 @@ P Liu, X Liu, R Yao, **Junming Liu**, S Meng, D Wang, J Ma. -->
 </div>
 
 
-For a complete list of publications, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US) or my [publications page](https://wings-of-disaster.github.io/publications.html).
+For a complete list of publications, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US) or my [publications page](https://wings-of-disaster.github.io/publications/).
 
 
 <!-- --------------------------------------------------------------- -->
