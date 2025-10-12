@@ -44,7 +44,7 @@ P Liu, X Liu, R Yao, **Junming Liu**, S Meng, D Wang, J Ma. -->
     <img src="images/valik.png" alt="sym" style="width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
-    <strong>Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning (ICCV 2025)</strong><br>
+    <strong>Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning (<span style="color: darkred;">ICCV 2025</span>)</strong><br>
     <b>Junming Liu</b>, S Meng, Y Gao, S Mao, P Cai, G Yan, Y Chen, Z Bian, D Wang, B Shi
   </div>
 </div>
@@ -55,7 +55,7 @@ P Liu, X Liu, R Yao, **Junming Liu**, S Meng, D Wang, J Ma. -->
     <img src="images/hmrag.jpg" alt="sym" style="width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
-    <strong>HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation (ACM MM 2025)</strong><br>
+    <strong>HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation (<span style="color: darkred;">ACM MM 2025</span>)</strong><br>
     P Liu, X Liu, R Yao, <b>Junming Liu</b>, S Meng, D Wang, J Ma.
   </div>
 </div>
