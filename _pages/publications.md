@@ -5,21 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-<style>
-a {
-  color: #333333; 
-  text-decoration: none;
-  transition: color 0.2s;
-}
-
-a:hover {
-  color: #111111; 
-  text-decoration: underline;
-}
-</style>
-
-
 Most recent publications on [Google Scholar](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US).  
 \* denotes co-first authors.  
 † denotes corresponding author.
@@ -28,19 +13,19 @@ Most recent publications on [Google Scholar](https://scholar.google.com.hk/citat
 
 **Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**  
 *<ins>Junming Liu</ins>*, Siyuan Meng, Yanting Gao, Song Mao, Pinlong Cai, Guohang Yan, Yirong Chen, Zilin Bian, Ding Wang†, Botian Shi  
-ICCV 2025. <span style="color:red;">(CCF-A)</span> [[arxiv]](https://arxiv.org/abs/2503.12972) [[github]](https://github.com/Wings-Of-Disaster/VaLiK)
+**ICCV 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-A)</span> [[arxiv]](https://arxiv.org/abs/2503.12972) [[github]](https://github.com/Wings-Of-Disaster/VaLiK)
 
 **Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation**  
 Pei Liu, Xin Liu, Ruoyu Yao, *<ins>Junming Liu</ins>*, Siyuan Meng, Ding Wang†, Jun Ma†  
-ACM MM 2025. <span style="color:red;">(CCF-A)</span> [[arxiv]](https://arxiv.org/abs/2504.12330) [[github]](https://github.com/ocean-luna/HMRAG)
+**ACM MM 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-A)</span> [[arxiv]](https://arxiv.org/abs/2504.12330) [[github]](https://github.com/ocean-luna/HMRAG)
 
 **AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis**  
 Yujin Kang\*, *<ins>Junming Liu</ins>*\*, Haiyan Cui†  
-Aesthetic Plastic Surgery <span style="color:red;">(JCR Q1)</span>
+**Aesthetic Plastic Surgery** <span style="color:#8B0000; font-weight:bold;">(JCR Q1)</span>
 
 **Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**  
 Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoqian Miao†, Cairong Zhao  
-PRCV 2025. <span style="color:red;">(CCF-C)</span> [[arxiv]](https://arxiv.org/abs/2506.06992)
+**PRCV 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-C)</span> [[arxiv]](https://arxiv.org/abs/2506.06992)
 
 ### Preprints
 
