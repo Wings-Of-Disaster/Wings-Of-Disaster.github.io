@@ -61,7 +61,7 @@ P Liu, X Liu, R Yao, **Junming Liu**, S Meng, D Wang, J Ma. -->
 </div>
 
 
-For a complete list of publications, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US).
+For a complete list of publications, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US) or my [publications page](https://wings-of-disaster.github.io/publications.html).
 
 
 <!-- --------------------------------------------------------------- -->
