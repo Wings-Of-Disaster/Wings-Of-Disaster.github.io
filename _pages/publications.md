@@ -55,7 +55,7 @@ WWW 2026 (Under Review)
 
 **From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation**  
 Siyuan Meng\*, *<ins>Junming Liu</ins>*\*, Yirong Chen, Song Mao, Pinlong Cai, Guohang Yan, Ding Wang†  
-EDBT 2026 (Under Review) [[arxiv]](https://www.arxiv.org/abs/2508.09497) [[github]](https://github.com/HetaTeam/LLM-Reranker)
+ACL 2026 (Under Review) [[arxiv]](https://www.arxiv.org/abs/2508.09497) [[github]](https://github.com/HetaTeam/LLM-Reranker)
 
 **TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling**  
 Yifei Sun, *<ins>Junming Liu</ins>*, Yirong Chen, Ding Wang†, Xuefeng Yan†  
