@@ -27,11 +27,11 @@ Yujin Kang\*, *<ins>Junming Liu</ins>*\*, Haiyan Cui†
 Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoqian Miao†, Cairong Zhao  
 **PRCV 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-C)</span> [[arxiv]](https://arxiv.org/abs/2506.06992)
 
-### Preprints
-
 **ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**  
 *<ins>Junming Liu</ins>*, Yifei Sun, Weihuang Cheng, Yujin Kang, Yirong Chen, Ding Wang†, Guosun Zeng†  
-WACV 2026 (Under Review)
+**WACV 2026**.
+
+### Preprints
 
 **Domain-Adaptive Model Merging Across Disconnected Modes**  
 *<ins>Junming Liu</ins>*, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu†  
