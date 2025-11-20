@@ -15,7 +15,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com.hk/citat
 *<ins>Junming Liu</ins>*, Siyuan Meng, Yanting Gao, Song Mao, Pinlong Cai, Guohang Yan, Yirong Chen, Zilin Bian, Ding Wang†, Botian Shi  
 **ICCV 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-A)</span> [[arxiv]](https://arxiv.org/abs/2503.12972) [[github]](https://github.com/Wings-Of-Disaster/VaLiK)
 
-**Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation**  
+**HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation**  
 Pei Liu, Xin Liu, Ruoyu Yao, *<ins>Junming Liu</ins>*, Siyuan Meng, Ding Wang†, Jun Ma†  
 **ACM MM 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-A)</span> [[arxiv]](https://arxiv.org/abs/2504.12330) [[github]](https://github.com/ocean-luna/HMRAG)
 
