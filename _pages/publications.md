@@ -34,29 +34,29 @@ Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoq
 ### Preprints
 
 **Domain-Adaptive Model Merging Across Disconnected Modes**  
-*<ins>Junming Liu</ins>*, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu†  
-ICASSP 2026 (Under Review)
+*<ins>Junming Liu</ins>*, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu†
 
 **FedRecon: Missing Modality Reconstruction in Heterogeneous Distributed Environments**  
 *<ins>Junming Liu</ins>*, Yanting Gao, Yifei Sun, Yirong Chen, Ding Wang  
-EUROGRAPHICS 2026 (Under Review) [[arxiv]](https://arxiv.org/abs/2504.09941) [[github]](https://github.com/Wings-Of-Disaster/FedRecon)
+[[arxiv]](https://arxiv.org/abs/2504.09941)
 
 **Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**  
 *<ins>Junming Liu</ins>*, Yanting Gao, Siyuan Meng, Yifei Sun, Yirong Chen, Ding Wang†, Guosun Zeng†  
-SIGMETRICS 2026 (Under Review) [[arxiv]](https://arxiv.org/abs/2505.19699) [[github]](https://github.com/Wings-Of-Disaster/Mosaic)
+[[arxiv]](https://arxiv.org/abs/2505.19699) [[github]](https://github.com/Wings-Of-Disaster/Mosaic)
 
 **MGA: Memory-Driven GUI Agent for Observation-Centric Interaction**  
 Weihua Cheng, Ersheng Ni, Wenlong Wang, Yifei Sun, *<ins>Junming Liu</ins>*, Wangyu Shen, Yirong Chen, Botian Shi and Ding Wang†  
-WWW 2026 (Under Review)
 
 **AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
 Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Evelyn Zhang, Weiquan Huang, Yifan Yang, Jiaxing Miao, Qi Zhang, Lai Zhong Yuan, Liang Hu†  
-WWW 2026 (Under Review)
 
 **From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation**  
 Siyuan Meng\*, *<ins>Junming Liu</ins>*\*, Yirong Chen, Song Mao, Pinlong Cai, Guohang Yan, Ding Wang†  
-ACL 2026 (Under Review) [[arxiv]](https://www.arxiv.org/abs/2508.09497) [[github]](https://github.com/HetaTeam/LLM-Reranker)
+[[arxiv]](https://www.arxiv.org/abs/2508.09497) [[github]](https://github.com/HetaTeam/LLM-Reranker)
 
 **TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling**  
 Yifei Sun, *<ins>Junming Liu</ins>*, Yirong Chen, Ding Wang†, Xuefeng Yan†  
-Engineering Applications of Artificial Intelligence (Under Review) [[arxiv]](https://arxiv.org/abs/2508.09630) [[github]](https://github.com/YifeiSunEcust/TimeMKG)
+[[arxiv]](https://arxiv.org/abs/2508.09630) [[github]](https://github.com/YifeiSunEcust/TimeMKG)
+
+**MemVerse: Multimodal Memory for Lifelong Learning Agents**
+*<ins>Junming Liu</ins>*, Yifei Sun, Weihua Cheng, Haodong Lei, Yirong Chen, Licheng Wen, Xuemeng Yang, Daocheng Fu, Pinlong Cai, Nianchen Deng, Yi Yu, Shuyue Hu, Botian Shi, Ding Wang† 
