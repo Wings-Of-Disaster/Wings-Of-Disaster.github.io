@@ -46,13 +46,14 @@ Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoq
 
 **MGA: Memory-Driven GUI Agent for Observation-Centric Interaction**  
 Weihua Cheng, Ersheng Ni, Wenlong Wang, Yifei Sun, *<ins>Junming Liu</ins>*, Wangyu Shen, Yirong Chen, Botian Shi and Ding Wang†  
+[[arxiv]](https://arxiv.org/abs/2510.24168)
 
 **AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
 Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Evelyn Zhang, Weiquan Huang, Yifan Yang, Jiaxing Miao, Qi Zhang, Lai Zhong Yuan, Liang Hu†  
 
 **From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation**  
 Siyuan Meng\*, *<ins>Junming Liu</ins>*\*, Yirong Chen, Song Mao, Pinlong Cai, Guohang Yan, Ding Wang†  
-[[arxiv]](https://www.arxiv.org/abs/2508.09497) [[github]](https://github.com/HetaTeam/LLM-Reranker)
+[[arxiv]](https://www.arxiv.org/abs/2508.09497)
 
 **TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling**  
 Yifei Sun, *<ins>Junming Liu</ins>*, Yirong Chen, Ding Wang†, Xuefeng Yan†  
