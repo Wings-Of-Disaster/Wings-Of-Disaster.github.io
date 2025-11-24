@@ -29,7 +29,7 @@ Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoq
 
 **ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**  
 *<ins>Junming Liu</ins>*, Yifei Sun, Weihuang Cheng, Yujin Kang, Yirong Chen, Ding Wang†, Guosun Zeng†  
-**WACV 2026**.
+**WACV 2026**. [[arxiv]](https://arxiv.org/abs/2511.17068)
 
 ### Preprints
 
