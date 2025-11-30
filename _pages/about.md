@@ -74,5 +74,4 @@ I serve as a reviewer for **ICME, SMC, and AAAI**, contributing to the peer-revi
 ## Skills & Tools
 
 - **Programming & Frameworks:** Python, PyTorch, Distributed Training, Linux, C/C++, Java  
-- **Languages:** Chinese (native), English (IELTS 7.0), Japanese, German  
-- **Specialized Knowledge:** Multimodal foundation models, medical image analysis, knowledge graph construction, PEFT, diffusion models  
+- **Languages:** Chinese (native), English (IELTS 7.0), Japanese, German
