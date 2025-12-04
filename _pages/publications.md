@@ -64,4 +64,5 @@ Yifei Sun, *<ins>Junming Liu</ins>*, Yirong Chen, Ding Wang†, Xuefeng Yan†
 [[arxiv]](https://arxiv.org/abs/2512.03627) [[github]](https://github.com/KnowledgeXLab/MemVerse)
 
 **DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time Series Forecasting**  
-Yuqi Li, Kuiye Ding, Chuanguang Yang, Hao Wang, Haoxuan Wang, Huiran Duan, *<ins>Junming Liu</ins>*, Yingli Tian
+Yuqi Li, Kuiye Ding, Chuanguang Yang, Hao Wang, Haoxuan Wang, Huiran Duan, *<ins>Junming Liu</ins>*, Yingli Tian  
+[[arxiv]](https://arxiv.org/abs/2511.16715)
