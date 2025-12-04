@@ -60,7 +60,7 @@ Yifei Sun, *<ins>Junming Liu</ins>*, Yirong Chen, Ding Wang†, Xuefeng Yan†
 [[arxiv]](https://arxiv.org/abs/2508.09630) [[github]](https://github.com/YifeiSunEcust/TimeMKG)
 
 **MemVerse: Multimodal Memory for Lifelong Learning Agents**  
-*<ins>Junming Liu</ins>*\*, Yifei Sun\*, Weihua Cheng, Haodong Lei, Yirong Chen, Licheng Wen, Xuemeng Yang, Daocheng Fu, Pinlong Cai, Nianchen Deng, Yi Yu, Shuyue Hu, Botian Shi, Ding Wang† 
+*<ins>Junming Liu</ins>*\*, Yifei Sun\*, Weihua Cheng, Haodong Lei, Yirong Chen, Licheng Wen, Xuemeng Yang, Daocheng Fu, Pinlong Cai, Nianchen Deng, Yi Yu, Shuyue Hu, Botian Shi, Ding Wang†  
 [[arxiv]](https://arxiv.org/abs/2512.03627) [[github]](https://github.com/KnowledgeXLab/MemVerse)
 
 **DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time Series Forecasting**  
