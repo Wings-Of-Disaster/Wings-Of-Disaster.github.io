@@ -66,3 +66,9 @@ Yifei Sun, *<ins>Junming Liu</ins>*, Yirong Chen, Ding Wang†, Xuefeng Yan†
 **DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time Series Forecasting**  
 Yuqi Li, Kuiye Ding, Chuanguang Yang, Hao Wang, Haoxuan Wang, Huiran Duan, *<ins>Junming Liu</ins>*, Yingli Tian  
 [[arxiv]](https://arxiv.org/abs/2511.16715)
+
+**Fuzziness Decides How to Synthetize: Inverse Synthesis with Fuzzy Flow Matching**  
+Rongchao Zhang, Haoran Liu, Bohan Guo, *<ins>Junming Liu</ins>*, Hao Zhang, Guangxin Wu  
+
+**TLI-SEG: Text-driven Robust Cross-modal Representation Enhancement for Multi-modal Semantic Segmentation Across Diverse Scenarios**  
+Wenkai Zhu, Weilin Zhou, Wang Xu, Yue Jiang, *<ins>Junming Liu</ins>*, Zihang Wang  
