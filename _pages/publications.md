@@ -44,9 +44,9 @@ Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoq
 *<ins>Junming Liu</ins>*, Yanting Gao, Siyuan Meng, Yifei Sun, Yirong Chen, Ding Wang†, Guosun Zeng†  
 [[arxiv]](https://arxiv.org/abs/2505.19699) [[github]](https://github.com/Wings-Of-Disaster/Mosaic)
 
-**MGA: Memory-Driven GUI Agent for Observation-Centric Interaction**  
+<!-- **MGA: Memory-Driven GUI Agent for Observation-Centric Interaction**  
 Weihua Cheng, Ersheng Ni, Wenlong Wang, Yifei Sun, *<ins>Junming Liu</ins>*, Wangyu Shen, Yirong Chen, Botian Shi and Ding Wang†  
-[[arxiv]](https://arxiv.org/abs/2510.24168)
+[[arxiv]](https://arxiv.org/abs/2510.24168) -->
 
 **AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
 Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Evelyn Zhang, Weiquan Huang, Yifan Yang, Jiaxing Miao, Qi Zhang, Lai Zhong Yuan, Liang Hu†  
@@ -63,7 +63,7 @@ Yifei Sun, *<ins>Junming Liu</ins>*, Yirong Chen, Ding Wang†, Xuefeng Yan†
 *<ins>Junming Liu</ins>*\*, Yifei Sun\*, Weihua Cheng, Haodong Lei, Yirong Chen, Licheng Wen, Xuemeng Yang, Daocheng Fu, Pinlong Cai, Nianchen Deng, Yi Yu, Shuyue Hu, Botian Shi, Ding Wang†  
 [[arxiv]](https://arxiv.org/abs/2512.03627) [[github]](https://github.com/KnowledgeXLab/MemVerse)
 
-**DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time Series Forecasting**  
+<!-- **DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time Series Forecasting**  
 Yuqi Li, Kuiye Ding, Chuanguang Yang, Hao Wang, Haoxuan Wang, Huiran Duan, *<ins>Junming Liu</ins>*, Yingli Tian  
 [[arxiv]](https://arxiv.org/abs/2511.16715)
 
@@ -72,3 +72,7 @@ Rongchao Zhang, Haoran Liu, Bohan Guo, *<ins>Junming Liu</ins>*, Hao Zhang, Guan
 
 **TLI-SEG: Text-driven Robust Cross-modal Representation Enhancement for Multi-modal Semantic Segmentation Across Diverse Scenarios**  
 Wenkai Zhu, Weilin Zhou, Wang Xu, Yue Jiang, *<ins>Junming Liu</ins>*, Zihang Wang  
+
+**EpiPlanAgent: Agentic Automated Epidemic Response Planning**  
+Kangkun Mao, Fang Xu, Jinru Ding, Yidong Jiang, Yujun Yao, Yirong Chen, *<ins>Junming Liu</ins>*, Xiaoqin Wu, Qian Wu, Xiaoyan Huang, Jie Xu  
+[[arxiv]](https://arxiv.org/abs/2512.10313) -->
