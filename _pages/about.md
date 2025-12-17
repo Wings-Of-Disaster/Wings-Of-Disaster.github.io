@@ -73,5 +73,5 @@ I serve as a reviewer for **ICME, SMC, and AAAI**, contributing to the peer-revi
 
 ## Skills & Tools
 
-- **Programming & Frameworks:** Python, PyTorch, Distributed Training, Linux, C/C++, Java  
+- **Programming & Frameworks:** : C, C++, Python, Java, Go, SQL, Rust, MPI, NCCL, DeepSpeed, DDP, FSDP
 - **Languages:** Chinese (native), English (IELTS 7.0), Japanese, German
