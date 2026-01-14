@@ -19,7 +19,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com.hk/citat
 ### 2026
 
 **AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
-Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Yuwei Zhang, Weiquan Huang, Liang Hu†, Yifan Yang, Qi Zhang, Jiaxing Miao, Yuhan Tang and Zhongyuan Lai  
+Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Yuwei Zhang, Weiquan Huang, Liang Hu†, Yifan Yang, Qi Zhang, Jiaxing Miao, Yuhan Tang Zhongyuan Lai  
 **WWW 2026**. <span style="color:#8B0000; font-weight:bold;">(CCF-A)</span>
 
 **ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**  
