@@ -19,7 +19,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com.hk/citat
 
 **AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
 Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Evelyn Zhang, Weiquan Huang, Yifan Yang, Jiaxing Miao, Qi Zhang, Lai Zhong Yuan, Liang Hu†  
-**WWW 2026**
+**WWW 2026**.
 
 **ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**  
 *<ins>Junming Liu</ins>*, Yifei Sun, Weihuang Cheng, Yujin Kang, Yirong Chen, Ding Wang†, Guosun Zeng†  
@@ -52,6 +52,7 @@ Yujin Kang\*, *<ins>Junming Liu</ins>*\*, Haiyan Cui†
 
 
 ### Preprints
+
 
 **Domain-Adaptive Model Merging Across Disconnected Modes**  
 *<ins>Junming Liu</ins>*, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu†
