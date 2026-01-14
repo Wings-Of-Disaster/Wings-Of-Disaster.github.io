@@ -10,6 +10,9 @@ Most recent publications on [Google Scholar](https://scholar.google.com.hk/citat
 † denotes corresponding author.
 
 
+---
+
+
 ## Conference Papers
 
 
@@ -39,6 +42,9 @@ Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoq
 **PRCV 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-C)</span> [[arxiv]](https://arxiv.org/abs/2506.06992)
 
 
+---
+
+
 ## Journal Papers
 
 
@@ -47,6 +53,9 @@ Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoq
 **AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis**  
 Yujin Kang\*, *<ins>Junming Liu</ins>*\*, Haiyan Cui†  
 **Aesthetic Plastic Surgery** <span style="color:#8B0000; font-weight:bold;">(JCR Q1)</span>
+
+
+---
 
 
 ### Preprints
