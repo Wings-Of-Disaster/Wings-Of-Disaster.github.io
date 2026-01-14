@@ -9,22 +9,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com.hk/citat
 \* denotes co-first authors.  
 † denotes corresponding author.
 
-
-## Conference Papers
-
-
-### 2026
-
-**AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
-Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Evelyn Zhang, Weiquan Huang, Yifan Yang, Jiaxing Miao, Qi Zhang, Lai Zhong Yuan, Liang Hu†  
-**WWW 2026**. <span style="color:#8B0000; font-weight:bold;">(CCF-A)</span>
-
-**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**  
-*<ins>Junming Liu</ins>*, Yifei Sun, Weihuang Cheng, Yujin Kang, Yirong Chen, Ding Wang†, Guosun Zeng†  
-**WACV 2026**. [[arxiv]](https://arxiv.org/abs/2511.17068)
-
-
-### 2025
+### Accepted Papers
 
 **Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**  
 *<ins>Junming Liu</ins>*, Siyuan Meng, Yanting Gao, Song Mao, Pinlong Cai, Guohang Yan, Yirong Chen, Zilin Bian, Ding Wang†, Botian Shi  
@@ -34,23 +19,23 @@ Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Evelyn Zhang, Weiquan Huang, Yifan Yang, 
 Pei Liu, Xin Liu, Ruoyu Yao, *<ins>Junming Liu</ins>*, Siyuan Meng, Ding Wang†, Jun Ma†  
 **ACM MM 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-A)</span> [[arxiv]](https://arxiv.org/abs/2504.12330) [[github]](https://github.com/ocean-luna/HMRAG)
 
-**Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**  
-Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoqian Miao†, Cairong Zhao  
-**PRCV 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-C)</span> [[arxiv]](https://arxiv.org/abs/2506.06992)
-
-
-## Journal Papers
-
-
-### 2025
-
 **AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis**  
 Yujin Kang\*, *<ins>Junming Liu</ins>*\*, Haiyan Cui†  
 **Aesthetic Plastic Surgery** <span style="color:#8B0000; font-weight:bold;">(JCR Q1)</span>
 
+**Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**  
+Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoqian Miao†, Cairong Zhao  
+**PRCV 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-C)</span> [[arxiv]](https://arxiv.org/abs/2506.06992)
+
+**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**  
+*<ins>Junming Liu</ins>*, Yifei Sun, Weihuang Cheng, Yujin Kang, Yirong Chen, Ding Wang†, Guosun Zeng†  
+**WACV 2026**. [[arxiv]](https://arxiv.org/abs/2511.17068)
+
+**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**  
+*<ins>Junming Liu</ins>*, Yifei Sun, Weihuang Cheng, Yujin Kang, Yirong Chen, Ding Wang†, Guosun Zeng†  
+**WACV 2026**. [[arxiv]](https://arxiv.org/abs/2511.17068)
 
 ### Preprints
-
 
 **Domain-Adaptive Model Merging Across Disconnected Modes**  
 *<ins>Junming Liu</ins>*, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu†
@@ -66,6 +51,9 @@ Yujin Kang\*, *<ins>Junming Liu</ins>*\*, Haiyan Cui†
 <!-- **MGA: Memory-Driven GUI Agent for Observation-Centric Interaction**  
 Weihua Cheng, Ersheng Ni, Wenlong Wang, Yifei Sun, *<ins>Junming Liu</ins>*, Wangyu Shen, Yirong Chen, Botian Shi and Ding Wang†  
 [[arxiv]](https://arxiv.org/abs/2510.24168) -->
+
+**AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
+Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Evelyn Zhang, Weiquan Huang, Yifan Yang, Jiaxing Miao, Qi Zhang, Lai Zhong Yuan, Liang Hu†  
 
 **From Ranking to Selection: A Simple but Efficient Dynamic Passage Selector for Retrieval Augmented Generation**  
 Siyuan Meng\*, *<ins>Junming Liu</ins>*\*, Yirong Chen, Song Mao, Pinlong Cai, Guohang Yan, Ding Wang†  
