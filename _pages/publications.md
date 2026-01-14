@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -8,8 +8,6 @@ author_profile: true
 Most recent publications on [Google Scholar](https://scholar.google.com.hk/citations?user=U8CS_BwAAAAJ&hl=en-US).  
 \* denotes co-first authors.  
 † denotes corresponding author.
-
----
 
 
 ## Conference Papers
@@ -39,9 +37,6 @@ Pei Liu, Xin Liu, Ruoyu Yao, *<ins>Junming Liu</ins>*, Siyuan Meng, Ding Wang†
 **Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**  
 Yanting Gao, Yepeng Liu, *<ins>Junming Liu</ins>*, Qi Zhang, Hongyun Zhang, Duoqian Miao†, Cairong Zhao  
 **PRCV 2025**. <span style="color:#8B0000; font-weight:bold;">(CCF-C)</span> [[arxiv]](https://arxiv.org/abs/2506.06992)
-
-
----
 
 
 ## Journal Papers
