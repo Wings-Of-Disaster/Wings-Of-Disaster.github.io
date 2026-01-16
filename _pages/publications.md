@@ -18,6 +18,10 @@ Most recent publications on [Google Scholar](https://scholar.google.com.hk/citat
 
 ### 2026
 
+**Domain-Adaptive Model Merging Across Disconnected Modes**  
+*<ins>Junming Liu</ins>*, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu†  
+**ICASSP 2026**. <span style="color:#8B0000; font-weight:bold;">(CCF-B)</span>
+
 **AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization**  
 Aoqi Wu\*, *<ins>Junming Liu</ins>*\*, Yuwei Zhang, Weiquan Huang, Liang Hu†, Yifan Yang, Qi Zhang, Jiaxing Miao, Yuhan Tang, Zhongyuan Lai  
 **WWW 2026**. <span style="color:#8B0000; font-weight:bold;">(CCF-A)</span>
@@ -61,11 +65,8 @@ Yujin Kang\*, *<ins>Junming Liu</ins>*\*, Haiyan Cui†
 ### Preprints
 
 
-**Domain-Adaptive Model Merging Across Disconnected Modes**  
-*<ins>Junming Liu</ins>*, Yusen Zhang, Rongchao Zhang, Wenkai Zhu, Tian Wu†
-
 **FedRecon: Missing Modality Reconstruction in Heterogeneous Distributed Environments**  
-*<ins>Junming Liu</ins>*, Yanting Gao, Yifei Sun, Yirong Chen, Ding Wang  
+*<ins>Junming Liu</ins>*, Yuqi Li, Yanting Gao, Yifei Sun, Yirong Chen, Ding Wang†, Yingli Tian†  
 [[arxiv]](https://arxiv.org/abs/2504.09941)
 
 **Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**  
