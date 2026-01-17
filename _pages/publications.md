@@ -89,6 +89,9 @@ Yifei Sun, *<ins>Junming Liu</ins>*, Yirong Chen, Ding Wang†, Xuefeng Yan†
 *<ins>Junming Liu</ins>*\*, Yifei Sun\*, Weihua Cheng, Haodong Lei, Yirong Chen, Licheng Wen, Xuemeng Yang, Daocheng Fu, Pinlong Cai, Nianchen Deng, Yi Yu, Shuyue Hu, Botian Shi, Ding Wang†  
 [[arxiv]](https://arxiv.org/abs/2512.03627) [[github]](https://github.com/KnowledgeXLab/MemVerse)
 
+**L-APO: Enhancing Long-Context Retrieval-Augmented Generation via Adversarial Preference Optimization**  
+*<ins>Junming Liu</ins>*\*, Yuqi Li\*, Mengyu Dai, Shiping Wen, Zhigang Zeng, Tingwen Huang  
+
 <!-- **DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time Series Forecasting**  
 Yuqi Li, Kuiye Ding, Chuanguang Yang, Hao Wang, Haoxuan Wang, Huiran Duan, *<ins>Junming Liu</ins>*, Yingli Tian  
 [[arxiv]](https://arxiv.org/abs/2511.16715)
