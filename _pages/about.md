@@ -13,15 +13,21 @@ I am a master student in Computer Science at Tongji University, expected to grad
 
 <span style="color:red;">I am actively seeking PhD opportunities starting Fall 2026. I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.</span>
 
-## 📖 Educations
+## Educations
 - 2023.09 - 2026.03, Master, Tongji University, Shanghai, China.
 - 2019.09 - 2023.06, Undergraduate, Dalian Maritime University, Dalian, China.
 
+## Internships
+- 2023.06 - 2023.09, Embedded Engineer, Shanghai NIO Automobile Co., Ltd.
+  - Controlled steering and braking systems under tire blowout scenarios using image and radar data to prevent rollover and loss of control.
+
+- 2025.01 - Present, Research Scientist, Shanghai Artificial Intelligence Laboratory
+  - Conducted research on multimodal large language models.
 
 <!-- --------------------------------------------------------------- -->
 
 
-## 📝 Selected Publications 
+## Selected Publications 
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/valik.png' alt="sym" width="100%"></div></div>
