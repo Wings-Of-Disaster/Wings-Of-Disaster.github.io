@@ -7,18 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in Computer Science at Tongji University, expected to graduate in March 2026. My research primarily focuses on **multimodal intelligence**, including **multimodal retrieval and generation**, **reasoning with multimodal large language models**, and **multi-agent interaction in distributed environments**. My work aims to advance the capability of AI systems to understand and reason across multiple modalities while addressing challenges such as privacy preservation, trustworthy reasoning, and model efficiency.
+I am a master student in Computer Science at Tongji University, expected to graduate in March 2026. My research primarily focuses on **Multimodal Intelligence**, including **Multimodal Retrieval and Generation**, **Multimodal Large Language Models**, and **Multi-Agent Interaction**. My work aims to advance the capability of AI systems to understand and reason across multiple modalities while addressing challenges such as privacy preservation, trustworthiness, and model efficiency.
 
-## 📢 Actively Seeking 2026 Fall PhD Positions
+Recently, my work has been centered around the following areas:
+1. **Retrieval-Augmented Generation and Memory Agents**.
+2. **Post-training of Multimodal Large Language Models**.
 
-<span style="color:red;">I am actively seeking PhD opportunities starting Fall 2026. I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.</span>
+<!-- ## 📢 Actively Seeking 2026 Fall PhD Positions
 
-## Educations
+<span style="color:red;">I am actively seeking PhD opportunities starting Fall 2026. I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.</span> -->
+
+<!-- ## Educations
 
 - 2023.09 - 2026.03, Master, Tongji University, Shanghai, China.
-- 2019.09 - 2023.06, Undergraduate, Dalian Maritime University, Dalian, China.
+- 2019.09 - 2023.06, Undergraduate, Dalian Maritime University, Dalian, China. -->
 
 <!-- --------------------------------------------------------------- -->
+
+## News
+
+- **[01/2026]** Our paper DMM has been accepted at ICASSP 2026! 🎉🎉
+- **[01/2026]** Our paper AMID has been accepted at WWW 2026! 🎉🎉
+- **[11/2025]** Our paper [ReBrain](https://arxiv.org/abs/2511.17068) has been accepted at WACV 2026! 🎉🎉
+- **[07/2025]** Our paper [VaLiK](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Aligning_Vision_to_Language_Annotation-Free_Multimodal_Knowledge_Graph_Construction_for_ICCV_2025_paper.html) has been accepted at ICCV 2025! 🎉🎉
+- **[07/2025]** Our paper [HM-RAG](https://dl.acm.org/doi/abs/10.1145/3746027.3754761) has been accepted by ACM MM 2025! 🎉🎉
+- **[01/2025]** Joined Shanghai Artificial Intelligence Laboratory as an Intern! ⚡️⚡️
+
 
 ## Selected Publications 
 
