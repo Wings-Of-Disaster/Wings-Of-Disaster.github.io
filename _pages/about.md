@@ -31,8 +31,9 @@ Recently, my work has been centered around the following areas:
     <li><strong>[01/2026]</strong> Our paper DMM has been accepted at ICASSP 2026! 🎉🎉</li>
     <li><strong>[01/2026]</strong> Our paper AMID has been accepted at WWW 2026! 🎉🎉</li>
     <li><strong>[11/2025]</strong> Our paper <a href="https://arxiv.org/abs/2511.17068" style="color: #00008B;">ReBrain</a> has been accepted at WACV 2026! 🎉🎉</li>
-    <li><strong>[07/2025]</strong> Our paper <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Aligning_Vision_to_Language_Annotation-Free_Multimodal_Knowledge_Graph_Construction_for_ICCV_2025_paper.html" style="color: #00008B;">VaLiK</a> has been accepted at ICCV 2025! 🎉🎉</li>
+    <li><strong>[08/2025]</strong> Our paper <a href="https://link.springer.com/chapter/10.1007/978-981-95-5693-9_5" style="color: #00008B;">COGO</a> has been accepted by PRCV 2025! 🎉🎉</li>
     <li><strong>[07/2025]</strong> Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754761" style="color: #00008B;">HM-RAG</a> has been accepted by ACM MM 2025! 🎉🎉</li>
+    <li><strong>[07/2025]</strong> Our paper <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Aligning_Vision_to_Language_Annotation-Free_Multimodal_Knowledge_Graph_Construction_for_ICCV_2025_paper.html" style="color: #00008B;">VaLiK</a> has been accepted at ICCV 2025! 🎉🎉</li>
     <li><strong>[01/2025]</strong> Joined Shanghai Artificial Intelligence Laboratory as an Intern! ⚡️⚡️</li>
   </ul>
 </div>
