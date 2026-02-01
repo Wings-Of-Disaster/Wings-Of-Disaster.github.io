@@ -10,7 +10,8 @@ redirect_from:
 I am a master student in Computer Science at Tongji University, expected to graduate in March 2026. My research primarily focuses on **Multimodal Intelligence**, including **Multimodal Retrieval and Generation**, **Multimodal Large Language Models**, and **Multi-Agent Interaction**.
 
 My work aims to advance the capability of AI systems to understand and reason across multiple modalities while addressing challenges such as privacy preservation, trustworthiness, and model efficiency. Recently, my work has been centered around the following areas:
-- <span style="color: #00008B;">**Retrieval-Augmented Generation and Memory Agents**</span>
+- <span style="color: #00008B;">**Retrieval-Augmented Memory Agents**</span>
+- <span style="color: #00008B;">**World Models for Agent Reasoning**</span>
 - <span style="color: #00008B;">**Post-training of Multimodal Large Language Models**</span>
 
 ## 📢 Actively Seeking 2026 Fall PhD Positions
