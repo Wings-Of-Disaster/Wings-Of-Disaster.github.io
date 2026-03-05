@@ -38,4 +38,4 @@ My work aims to advance the capability of AI systems in generative modeling and 
 - <span style="color: #00008B;">**Graph Theory and Knowledge Representation**</span>  
   Knowledge Graphs and Graph Topology.
 
-**<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.</span>
+**<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.
