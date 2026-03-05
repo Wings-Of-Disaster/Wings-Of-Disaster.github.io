@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Wings-Of-Disaster/jmliu.github.io",
+    "data-repo": "Wings-Of-Disaster/Wings-Of-Disaster.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
