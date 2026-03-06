@@ -28,8 +28,10 @@ I am a third-year Master's student in Computer Science at [**Tongji University**
 
 <!-- My work aims to advance the capability of AI systems in generative modeling and multimodal cognition, while exploring structured knowledge representations for more reliable and interpretable intelligence. -->
 My work seeks to enhance the creative fidelity and cognitive depth of AI systems, while ensuring logical consistency through knowledge representations.
-I am dedicated to building next-generation intelligence that is both robust and inherently explainable.
-
-Recently, my research has been centered around the following areas: Diffusion Models for General and Medical domains · Memory-Augmented Agents · and MLLM Post-training for Spatial Reasoning.
+<!-- I am dedicated to building next-generation intelligence that is both robust and inherently explainable. -->
+Recently, my research has been centered around the following areas:
+* Diffusion Models for General and Medical domains.
+* Memory-Augmented Agents.
+* MLLM Post-training for Spatial Cognition.
 
 **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.
