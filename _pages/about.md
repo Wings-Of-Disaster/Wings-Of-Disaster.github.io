@@ -9,7 +9,6 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Stride alone across the world.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,7 +32,7 @@ I am dedicated to building next-generation intelligence that is both robust and 
 
 Recently, my research has been centered around the following areas:
 * Diffusion Models for general and medical domains.
-* Post-training of Multimodal Large Language Models, Memory-augmented Agents, and Spatial Reasoning.
+* MLLM Post-training, Memory-augmented Agents, and Spatial Reasoning.
 * Knowledge Graphs.
 
 **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.
