@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -387,12 +394,10 @@ ninja.data = [{
             },},{id: "news-join-shanghai-ai-lab-as-a-research-intern-targeting-knowledge-reasoning-️️-️",
           title: 'Join Shanghai AI Lab as a Research Intern, targeting Knowledge Reasoning!⚡️️⚡️',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-our-paper-valik-has-been-accepted-by-iccv-2025-code-available-at-link",
+          title: 'Our paper VaLiK has been accepted by ICCV 2025! 🎉🎉 Code available at...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-hm-rag-has-been-accepted-by-acm-mm-2025-code-available-at-link",
+          section: "News",},{id: "news-our-paper-hm-rag-has-been-accepted-by-acm-mm-2025-code-available-at-link",
           title: 'Our paper HM-RAG has been accepted by ACM MM 2025! 🎉🎉 Code available...',
           description: "",
           section: "News",},{id: "news-our-paper-cogo-has-been-accepted-by-prcv-2025",
