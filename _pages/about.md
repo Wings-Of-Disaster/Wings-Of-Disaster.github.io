@@ -25,17 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year Master's student in Computer Science at [**Tongji University**](https://www.tongji.edu.cn/) and a Research Intern at the [**Shanghai Artificial Intelligence Laboratory**](https://www.shlab.org.cn/). My research primarily focuses on **Generative Intelligence**, **Multimodal Reasoning**, and **Graph Theory**.
+I am a third-year Master's student in Computer Science at [**Tongji University**](https://www.tongji.edu.cn/) and a Research Intern at the [**Shanghai AI Lab**](https://www.shlab.org.cn/). My research primarily focuses on **Generative Intelligence**, **Multimodal Reasoning**, and **Graph Theory**.
 
-My work aims to advance the capability of AI systems in generative modeling and multimodal cognition, while exploring structured knowledge representations for more reliable and interpretable intelligence. Recently, my research has been centered around the following areas:
+<!-- My work aims to advance the capability of AI systems in generative modeling and multimodal cognition, while exploring structured knowledge representations for more reliable and interpretable intelligence. -->
+My work seeks to enhance the creative fidelity and cognitive depth of AI systems, while ensuring logical consistency through knowledge representations.
+I am dedicated to building next-generation intelligence that is both robust and inherently explainable.
 
-- <span style="color: #00008B;">**Generative Intelligence**</span>  
+Recently, my research has been centered around the following areas:
   Diffusion Models for General and Medical Domains.
-
-- <span style="color: #00008B;">**Multimodal Reasoning**</span>  
   Post-training of Multimodal Large Language Models, Memory Agents, and Spatial Intelligence.
-
-- <span style="color: #00008B;">**Graph Theory and Knowledge Representation**</span>  
   Knowledge Graphs and Graph Topology.
 
 **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.
