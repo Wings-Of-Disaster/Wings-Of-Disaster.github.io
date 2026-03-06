@@ -31,19 +31,6 @@ cv:
           - "Advisor: Prof. [Yijia Zhang](https://dmu-itrec.github.io/zhangyijia.github.io/)"
 
     Experience:
-      - company: Shanghai NIO Automobile Co., Ltd
-        position: Embedded Engineer
-        location: Shanghai, China
-        start_date: 2023
-        end_date: 2023
-        summary: Controlled steering and braking systems under tire blowout scenarios using image and radar data to prevent rollover and loss of control.
-
-      - company: Beijing Jinxixin Network Technology Co., Ltd. 
-        position: Algorithm Engineer
-        location: Shanghai, China
-        start_date: 2025
-        end_date: 2025
-        summary: Constructed and trained vertical domain large models for maritime law scenarios.
 
       - company: Shanghai Artificial Intelligence Laboratory
         position: Researcher
@@ -53,6 +40,21 @@ cv:
         summary: Conducted research on multimodal large language models.
         highlights:
           - "Advisor: Dr. [Ding Wang](https://dw2283.github.io/wangding.github.io/)"
+
+      - company: Beijing Jinxixin Network Technology Co., Ltd. 
+        position: Algorithm Engineer
+        location: Shanghai, China
+        start_date: 2025
+        end_date: 2025
+        summary: Constructed and trained vertical domain large models for maritime law scenarios.
+
+      - company: Shanghai NIO Automobile Co., Ltd
+        position: Embedded Engineer
+        location: Shanghai, China
+        start_date: 2023
+        end_date: 2023
+        summary: Controlled steering and braking systems under tire blowout scenarios using image and radar data to prevent rollover and loss of control.
+
 
     Awards:
       - title: National College Mathematics Competition, National First Prize
