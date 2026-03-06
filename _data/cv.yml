@@ -30,15 +30,15 @@ cv:
       - company: Shanghai NIO Automobile Co., Ltd
         position: Embedded Engineer
         location: Shanghai, China
-        start_date: "June 2023"
-        end_date: "Sept. 2023"
+        start_date: 2023-06
+        end_date: 2023-09
         summary: Controlled steering and braking systems under tire blowout scenarios using image and radar data to prevent rollover and loss of control.
 
       - company: Beijing Jinxixin Network Technology Co., Ltd. 
         position: Algorithm Engineer
         location: Shanghai, China
-        start_date: "Oct. 2025"
-        end_date: "Dec. 2025"
+        start_date: 2025-10
+        end_date: 2025-12
         summary: Constructed and trained vertical domain large models for maritime law scenarios.
 
       - company: Shanghai Artificial Intelligence Laboratory
