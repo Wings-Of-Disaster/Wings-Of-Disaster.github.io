@@ -18,6 +18,8 @@ cv:
         studyType: Master
         start_date: 2023
         end_date: 2026
+        highlights:
+          - "Advisor: Prof. [Guosun Zeng](https://cs.tongji.edu.cn/info/1061/2802.htm)"
 
       - institution: Dalian Maritime University
         location: Dalian, China
@@ -25,20 +27,22 @@ cv:
         studyType: Undergraduate
         start_date: 2019
         end_date: 2023
+        highlights:
+          - "Advisor: Prof. [Yijia Zhang](https://dmu-itrec.github.io/zhangyijia.github.io/)"
 
     Experience:
       - company: Shanghai NIO Automobile Co., Ltd
         position: Embedded Engineer
         location: Shanghai, China
-        start_date: 2023-06
-        end_date: 2023-09
+        start_date: 2023
+        end_date: 2023
         summary: Controlled steering and braking systems under tire blowout scenarios using image and radar data to prevent rollover and loss of control.
 
       - company: Beijing Jinxixin Network Technology Co., Ltd. 
         position: Algorithm Engineer
         location: Shanghai, China
-        start_date: 2025-10
-        end_date: 2025-12
+        start_date: 2025
+        end_date: 2025
         summary: Constructed and trained vertical domain large models for maritime law scenarios.
 
       - company: Shanghai Artificial Intelligence Laboratory
@@ -47,6 +51,8 @@ cv:
         start_date: 2025
         end_date: 2026
         summary: Conducted research on multimodal large language models.
+        highlights:
+          - "Advisor: Dr. [Ding Wang](https://dw2283.github.io/wangding.github.io/)"
 
     Awards:
       - title: National College Mathematics Competition, National First Prize
@@ -56,19 +62,19 @@ cv:
         awarder: Chinese Mathematical Society
         summary: "Top 1% nationwide among participants."
 
-      - title: Leadership and Communication Scholarship
-        authors:
-          - "Dalian Maritime University"
-        date: 2020
-        awarder: Dalian Maritime University
-        summary: "Awarded to the top 5% for excellence in student leadership and organizational impact."
-
       - title: Excellent Student Scholarship
         authors:
           - "Dalian Maritime University"
         date: "2021, 2022"
         awarder: Dalian Maritime University
         summary: "Awarded to the top 10% for outstanding academic and comprehensive performance."
+
+      - title: Leadership and Communication Scholarship
+        authors:
+          - "Dalian Maritime University"
+        date: 2020
+        awarder: Dalian Maritime University
+        summary: "Awarded to the top 5% for excellence in student leadership and organizational impact."
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
