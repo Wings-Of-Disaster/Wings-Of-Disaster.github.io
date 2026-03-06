@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-07
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Join [Shanghai AI Lab](https://www.shlab.org.cn/) as a Research Intern, targeting Knowledge Reasoning!⚡️️⚡️
