@@ -32,6 +32,6 @@ My work seeks to enhance the creative fidelity and cognitive depth of AI systems
 Recently, my research has been centered around the following areas:
 * Diffusion Models for General and Medical domains.
 * Memory-Augmented Agents.
-* MLLM Post-training for Spatial Cognition.
+* Post-training of Multimodal Large Language Models for Spatial Cognition.
 
 **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.

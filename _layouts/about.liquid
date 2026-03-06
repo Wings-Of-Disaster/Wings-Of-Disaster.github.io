@@ -43,7 +43,7 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -59,16 +59,12 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
-      <div style="display: inline-block; transform: scale(0.80); transform-origin: center top;">
-        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_JrSqe6LHWABefXTXh3X68RPF-N4Xh31ywvL7P24xAE&cl=ffffff&w=a"></script>
-      </div>
-    </div>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_JrSqe6LHWABefXTXh3X68RPF-N4Xh31ywvL7P24xAE&cl=ffffff&w=a"></script>
 
     <!-- Social -->
     {% if page.social %}
