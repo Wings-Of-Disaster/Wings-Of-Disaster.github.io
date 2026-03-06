@@ -2,7 +2,7 @@ cv:
   name: Junming Liu
   email: liu_junming6917@tongji.edu.cn
   location: Shanghai, China
-  image: ""
+  # image: ""
 
   social_networks:
     - network: GitHub
@@ -54,7 +54,6 @@ cv:
         start_date: 2023
         end_date: 2023
         summary: Controlled steering and braking systems under tire blowout scenarios using image and radar data to prevent rollover and loss of control.
-
 
     Awards:
       - title: National College Mathematics Competition, National First Prize
