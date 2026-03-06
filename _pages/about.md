@@ -30,8 +30,6 @@ I am a third-year Master's student in Computer Science at [**Tongji University**
 My work seeks to enhance the creative fidelity and cognitive depth of AI systems, while ensuring logical consistency through knowledge representations.
 I am dedicated to building next-generation intelligence that is both robust and inherently explainable.
 
-Recently, my research has been centered around the following areas:
-* Diffusion Models for General and Medical domains.
-* MLLM Post-training, Memory-Augmented Agents, and Spatial Reasoning.
+Recently, my research has been centered around the following areas: Diffusion Models for General and Medical domains · Memory-Augmented Agents · and MLLM Post-training for Spatial Reasoning.
 
 **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.
