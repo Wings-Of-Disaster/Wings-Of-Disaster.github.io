@@ -32,8 +32,8 @@ My work seeks to enhance the creative fidelity and cognitive depth of AI systems
 I am dedicated to building next-generation intelligence that is both robust and inherently explainable.
 
 Recently, my research has been centered around the following areas:
-  Diffusion Models for General and Medical Domains.
-  Post-training of Multimodal Large Language Models, Memory Agents, and Spatial Intelligence.
-  Knowledge Graphs and Graph Topology.
+* Diffusion Models for general and medical domains.
+* Post-training of Multimodal Large Language Models, Memory-augmented Agents, and Spatial Reasoning.
+* Knowledge Graphs.
 
 **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.
