@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-01'
 papers:
   U8CS_BwAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: Domain-Adaptive Model Merging across Disconnected Modes
     year: '2026'
   U8CS_BwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 5
     title: 'From ranking to selection: A simple but efficient dynamic passage selector for retrieval augmented generation'
     year: '2025'
   U8CS_BwAAAAJ:UeHWp8X0CEIC:
@@ -54,7 +54,7 @@ papers:
     title: 'Memverse: Multimodal Memory for Lifelong Learning Agents'
     year: '2025'
   U8CS_BwAAAAJ:ufrVoPGSRksC:
-    citations: 2
+    citations: 4
     title: A Comprehensive Survey of Interaction Techniques in 3D Scene Generation
     year: '2026'
   U8CS_BwAAAAJ:zYLM7Y9cAGgC:
