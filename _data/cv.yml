@@ -31,7 +31,6 @@ cv:
           - "Advisor: Prof. [Yijia Zhang](https://dmu-itrec.github.io/zhangyijia.github.io/)"
 
     Experience:
-
       - company: Shanghai Artificial Intelligence Laboratory
         position: Researcher
         location: Shanghai, China
@@ -41,7 +40,7 @@ cv:
         highlights:
           - "Advisor: Dr. [Ding Wang](https://dw2283.github.io/wangding.github.io/)"
 
-      - company: Beijing Jinxixin Network Technology Co., Ltd. 
+      - company: Beijing Jinxixin Network Technology Co., Ltd.
         position: Algorithm Engineer
         location: Shanghai, China
         start_date: 2025

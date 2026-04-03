@@ -66,14 +66,20 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <div style="width: 400px; margin: 0 auto; text-align: center;"> 
+    <div style="width: 400px; margin: 0 auto; text-align: center;">
       <style>
-        #mapmyvisitors, #mapmyvisitors_iframe, #mapmyvisitors img {
+        #mapmyvisitors,
+        #mapmyvisitors_iframe,
+        #mapmyvisitors img {
           width: 100% !important;
           height: auto !important;
         }
       </style>
-      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_JrSqe6LHWABefXTXh3X68RPF-N4Xh31ywvL7P24xAE&cl=ffffff&w=a"></script>
+      <script
+        type="text/javascript"
+        id="mapmyvisitors"
+        src="//mapmyvisitors.com/map.js?d=_JrSqe6LHWABefXTXh3X68RPF-N4Xh31ywvL7P24xAE&cl=ffffff&w=a"
+      ></script>
     </div>
 
     <!-- Social -->
@@ -88,6 +94,5 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
-
   </article>
 </div>
