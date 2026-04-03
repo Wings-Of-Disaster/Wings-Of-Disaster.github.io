@@ -1,24 +1,28 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-04-01'
 papers:
   U8CS_BwAAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: 'AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis'
     year: '2025'
   U8CS_BwAAAAJ:9yKSN-GCB0IC:
-    citations: 43
+    citations: 47
     title: 'HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation'
     year: '2025'
   U8CS_BwAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization
     year: '2025'
+  U8CS_BwAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Domain-Adaptive Model Merging across Disconnected Modes
+    year: '2026'
   U8CS_BwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 5
     title: 'From ranking to selection: A simple but efficient dynamic passage selector for retrieval augmented generation'
     year: '2025'
   U8CS_BwAAAAJ:UeHWp8X0CEIC:
-    citations: 2
+    citations: 3
     title: 'Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments'
     year: '2025'
   U8CS_BwAAAAJ:W7OEmFMy1HYC:
@@ -38,19 +42,19 @@ papers:
     title: 'DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting'
     year: '2025'
   U8CS_BwAAAAJ:_FxGoFyzp5QC:
-    citations: 5
+    citations: 6
     title: 'FedRecon: Missing Modality Reconstruction in Heterogeneous Distributed Environments'
     year: '2025'
   U8CS_BwAAAAJ:d1gkVwhDpl0C:
-    citations: 24
+    citations: 27
     title: 'Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning'
     year: '2025'
   U8CS_BwAAAAJ:eQOLeE2rZwMC:
-    citations: 8
+    citations: 9
     title: 'Memverse: Multimodal Memory for Lifelong Learning Agents'
     year: '2025'
   U8CS_BwAAAAJ:ufrVoPGSRksC:
-    citations: 1
+    citations: 4
     title: A Comprehensive Survey of Interaction Techniques in 3D Scene Generation
     year: '2026'
   U8CS_BwAAAAJ:zYLM7Y9cAGgC:
