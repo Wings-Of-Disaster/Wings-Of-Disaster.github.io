@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper DMM has been accepted by ICASSP 2026! 🎉🎉
+Our paper [DMM](https://arxiv.org/abs/2603.05957) has been accepted by ICASSP 2026! 🎉🎉
