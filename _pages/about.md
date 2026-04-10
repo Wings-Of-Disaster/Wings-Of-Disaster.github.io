@@ -34,7 +34,7 @@ My work seeks to enhance the creative fidelity and cognitive depth of AI systems
 
 Recently, my research has been centered around the following areas:
 
-- Diffusion Models for General and Medical domains.
+- Diffusion Models for General and Medical Domains.
 - Memory-Augmented Agents.
 - Post-training of Multimodal Large Language Models for Spatial Cognition.
 
