@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-13'
 papers:
   U8CS_BwAAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: 'AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis'
     year: '2025'
   U8CS_BwAAAAJ:9yKSN-GCB0IC:
-    citations: 47
+    citations: 51
     title: 'HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation'
     year: '2025'
   U8CS_BwAAAAJ:IjCSPb-OGe4C:
@@ -16,6 +16,10 @@ papers:
   U8CS_BwAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: Domain-Adaptive Model Merging across Disconnected Modes
+    year: '2026'
+  U8CS_BwAAAAJ:Se3iqnhoufwC:
+    citations: 1
+    title: 'Hit-RAG: Learning to Reason with Long Contexts via Preference Alignment'
     year: '2026'
   U8CS_BwAAAAJ:Tyk-4Ss8FVUC:
     citations: 5
@@ -42,17 +46,21 @@ papers:
     title: 'DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting'
     year: '2025'
   U8CS_BwAAAAJ:_FxGoFyzp5QC:
-    citations: 6
+    citations: 7
     title: 'FedRecon: Missing Modality Reconstruction in Heterogeneous Distributed Environments'
     year: '2025'
   U8CS_BwAAAAJ:d1gkVwhDpl0C:
-    citations: 27
+    citations: 28
     title: 'Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning'
     year: '2025'
   U8CS_BwAAAAJ:eQOLeE2rZwMC:
-    citations: 9
-    title: 'Memverse: Multimodal Memory for Lifelong Learning Agents'
+    citations: 10
+    title: 'MemVerse: Multimodal Memory for Lifelong Learning Agents'
     year: '2025'
+  U8CS_BwAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Hierarchical Memory Orchestration for Personalized Persistent Agents
+    year: '2026'
   U8CS_BwAAAAJ:ufrVoPGSRksC:
     citations: 4
     title: A Comprehensive Survey of Interaction Techniques in 3D Scene Generation
