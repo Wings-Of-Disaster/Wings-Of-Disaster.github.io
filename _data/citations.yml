@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-17'
 papers:
   U8CS_BwAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -15,7 +15,7 @@ papers:
     year: '2025'
   U8CS_BwAAAAJ:LkGwnXOMwfcC:
     citations: 0
-    title: Domain-Adaptive Model Merging across Disconnected Modes
+    title: Domain-Adaptive Model Merging Across Disconnected Modes
     year: '2026'
   U8CS_BwAAAAJ:Se3iqnhoufwC:
     citations: 1
@@ -25,6 +25,10 @@ papers:
     citations: 5
     title: 'From ranking to selection: A simple but efficient dynamic passage selector for retrieval augmented generation'
     year: '2025'
+  U8CS_BwAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: 'AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization'
+    year: '2026'
   U8CS_BwAAAAJ:UeHWp8X0CEIC:
     citations: 3
     title: 'Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments'
@@ -45,6 +49,10 @@ papers:
     citations: 0
     title: 'DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting'
     year: '2025'
+  U8CS_BwAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: 'MemCoT: Test-Time Scaling through Memory-Driven Chain-of-Thought'
+    year: '2026'
   U8CS_BwAAAAJ:_FxGoFyzp5QC:
     citations: 7
     title: 'FedRecon: Missing Modality Reconstruction in Heterogeneous Distributed Environments'
