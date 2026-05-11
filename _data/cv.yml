@@ -1,6 +1,6 @@
 cv:
   name: Junming Liu
-  email: liu_junming6917@tongji.edu.cn
+  email: pppplongke@gmail.com
   location: Shanghai, China
   # image: ""
 
@@ -12,6 +12,15 @@ cv:
 
   sections:
     Education:
+      # - institution: The University of Melbourne
+      #   location: Melbourne, Australia 
+      #   area: Engineering and IT
+      #   studyType: Doctor
+      #   start_date: 2026
+      #   end_date: 2030
+      #   highlights:
+      #     - "Advisor: [Prof. Jianzhong Qi](https://jianzhongqi.github.io/) and [Dr. Hanzhi Wang](https://wanghzccls.github.io/)"
+
       - institution: Tongji University
         location: Shanghai, China
         area: Computer Science and Technology
@@ -19,16 +28,16 @@ cv:
         start_date: 2023
         end_date: 2026
         highlights:
-          - "Advisor: Prof. [Guosun Zeng](https://cs.tongji.edu.cn/info/1061/2802.htm)"
+          - "Advisor: [Prof. Guosun Zeng](https://cs.tongji.edu.cn/info/1061/2802.htm)"
 
       - institution: Dalian Maritime University
         location: Dalian, China
         area: Intelligence Science and Technology
-        studyType: Undergraduate
+        studyType: Bachelor
         start_date: 2019
         end_date: 2023
         highlights:
-          - "Advisor: Prof. [Yijia Zhang](https://dmu-itrec.github.io/zhangyijia.github.io/)"
+          - "Advisor: [Prof. Yijia Zhang](https://dmu-itrec.github.io/zhangyijia.github.io/)"
 
     Experience:
       - company: Shanghai Artificial Intelligence Laboratory
@@ -36,9 +45,9 @@ cv:
         location: Shanghai, China
         start_date: 2025
         end_date: 2026
-        summary: Conducted research on multimodal large language models.
+        summary: Conducted research on AI agents.
         highlights:
-          - "Advisor: Dr. [Ding Wang](https://dw2283.github.io/wangding.github.io/)"
+          - "Advisor: [Dr. Ding Wang](https://dw2283.github.io/wangding.github.io/)"
 
       - company: Beijing Jinxixin Network Technology Co., Ltd.
         position: Algorithm Engineer
@@ -52,7 +61,7 @@ cv:
         location: Shanghai, China
         start_date: 2023
         end_date: 2023
-        summary: Controlled steering and braking systems under tire blowout scenarios using image and radar data to prevent rollover and loss of control.
+        summary: Controlled steering systems using multimodal sensing for rollover prevention in tire blowout scenarios.
 
     Awards:
       - title: National College Mathematics Competition, National First Prize
