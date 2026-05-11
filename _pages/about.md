@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year Master's student in Computer Science at [**Tongji University**](https://www.tongji.edu.cn/) and a Research Intern at the [**Shanghai AI Lab**](https://www.shlab.org.cn/). My research primarily focuses on **Generative Intelligence**, **Multimodal Reasoning**, and **Graph Theory**.
+<!-- I am a third-year Master's student in Computer Science at [**Tongji University**](https://www.tongji.edu.cn/) and a Research Intern at the [**Shanghai AI Lab**](https://www.shlab.org.cn/). My research primarily focuses on **Generative Intelligence**, **Multimodal Reasoning**, and **Graph Theory**. -->
+
+I am currently a Research Intern at [**Shanghai AI Lab**](https://www.shlab.org.cn/), where I work on topics related to **Generative Intelligence**, **Multimodal Reasoning**, and **Graph Theory**. Prior to this, I received my Master’s degree in Computer Science from [**Tongji University**](https://www.tongji.edu.cn/), and my Bachelor’s degree in Intelligent Science from [**Dalian Maritime University**](https://www.dlmu.edu.cn/).
 
 <!-- My work aims to advance the capability of AI systems in generative modeling and multimodal cognition, while exploring structured knowledge representations for more reliable and interpretable intelligence. -->
 
@@ -38,4 +40,6 @@ Recently, my research has been centered around the following areas:
 - Memory-Augmented Agents.
 - Post-training of Multimodal Large Language Models for Spatial Cognition.
 
-**<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me.
+<!-- **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me. -->
+
+I’m an incoming PhD student at [**The University of Melbourne**](https://www.unimelb.edu.au/), advised by [**Prof. Jianzhong Qi**](https://jianzhongqi.github.io/) and [**Dr. Hanzhi Wang**](https://wanghzccls.github.io/). I am actively open to research collaboration. Please feel free to contact me.
