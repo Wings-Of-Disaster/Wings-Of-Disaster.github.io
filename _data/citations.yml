@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-25'
 papers:
   U8CS_BwAAAAJ:2osOgNQ5qMEC:
-    citations: 6
+    citations: 7
     title: 'AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis'
     year: '2025'
   U8CS_BwAAAAJ:9yKSN-GCB0IC:
-    citations: 70
+    citations: 71
     title: 'HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation'
     year: '2025'
   U8CS_BwAAAAJ:IjCSPb-OGe4C:
@@ -42,9 +42,13 @@ papers:
     title: 'EpiPlanAgent: Agentic Automated Epidemic Response Planning'
     year: '2025'
   U8CS_BwAAAAJ:Y0pCki6q_DkC:
-    citations: 6
+    citations: 7
     title: 'Mga: Memory-driven gui agent for observation-centric interaction'
     year: '2025'
+  U8CS_BwAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: Self-Evolving Spatial Reasoning in Vision Language Models via Geometric Logic Consistency
+    year: '2026'
   U8CS_BwAAAAJ:YsMSGLbcyi4C:
     citations: 2
     title: 'DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting'
@@ -58,11 +62,11 @@ papers:
     title: 'FedRecon: Missing Modality Reconstruction in Heterogeneous Distributed Environments'
     year: '2025'
   U8CS_BwAAAAJ:d1gkVwhDpl0C:
-    citations: 29
+    citations: 30
     title: 'Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning'
     year: '2025'
   U8CS_BwAAAAJ:eQOLeE2rZwMC:
-    citations: 13
+    citations: 15
     title: 'MemVerse: Multimodal Memory for Lifelong Learning Agents'
     year: '2025'
   U8CS_BwAAAAJ:roLk4NBRz8UC:
@@ -70,7 +74,7 @@ papers:
     title: Hierarchical Memory Orchestration for Personalized Persistent Agents
     year: '2026'
   U8CS_BwAAAAJ:ufrVoPGSRksC:
-    citations: 6
+    citations: 7
     title: A Comprehensive Survey of Interaction Techniques in 3D Scene Generation
     year: '2026'
   U8CS_BwAAAAJ:zYLM7Y9cAGgC:
