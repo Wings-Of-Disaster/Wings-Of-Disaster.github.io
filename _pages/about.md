@@ -44,4 +44,6 @@ Recently, my research has been centered around the following areas:
 
 <!-- **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me. -->
 
-I’m an incoming PhD student at [**The University of Melbourne**](https://www.unimelb.edu.au/), advised by [**Prof. Jianzhong Qi**](https://jianzhongqi.github.io/) and [**Dr. Hanzhi Wang**](https://wanghzccls.github.io/). I am actively open to research collaboration. Please feel free to contact me.
+<!-- I’m an incoming PhD student at [**The University of Melbourne**](https://www.unimelb.edu.au/), advised by [**Prof. Jianzhong Qi**](https://jianzhongqi.github.io/) and [**Dr. Hanzhi Wang**](https://wanghzccls.github.io/). I am actively open to research collaboration. Please feel free to contact me. -->
+
+**<span style="color: #dc143c;">I am actively seeking Research Assistant positions and research opportunities, as well as research collaborations.</span>** Please feel free to contact me.
