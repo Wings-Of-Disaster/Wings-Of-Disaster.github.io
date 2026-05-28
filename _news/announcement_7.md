@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Domain-Adaptive Model Merging (DMM)](https://ieeexplore.ieee.org/document/11464725) has been accepted by ICASSP 2026! 🎉🎉
+Our paper [Domain-Adaptive Model Merging (DMM)](https://ieeexplore.ieee.org/document/11464725) has been accepted by **ICASSP 2026**! 🎉🎉

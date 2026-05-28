@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Neuroevolution for Physical Dynamics (Evo-ManiEarth)](https://wings-of-disaster.github.io/) has been accepted by **IEEE Transactions on Evolutionary Computation (TEVC)**. Congrats to all collaborators! 🎉🎉
+Our paper [Neuroevolution for Physical Dynamics (Evo-ManiEarth)](https://wings-of-disaster.github.io/) has been accepted by **IEEE Transactions on Evolutionary Computation (TEVC)**! Congrats to all collaborators! 🎉🎉
