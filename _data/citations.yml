@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-17'
 papers:
   U8CS_BwAAAAJ:2osOgNQ5qMEC:
     citations: 7
     title: 'AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis'
     year: '2025'
   U8CS_BwAAAAJ:9yKSN-GCB0IC:
-    citations: 76
+    citations: 78
     title: 'HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation'
     year: '2025'
   U8CS_BwAAAAJ:IjCSPb-OGe4C:
@@ -58,15 +58,15 @@ papers:
     title: 'MemCoT: Test-Time Scaling through Memory-Driven Chain-of-Thought'
     year: '2026'
   U8CS_BwAAAAJ:_FxGoFyzp5QC:
-    citations: 7
+    citations: 8
     title: 'FedRecon: Missing Modality Reconstruction in Heterogeneous Distributed Environments'
     year: '2025'
   U8CS_BwAAAAJ:d1gkVwhDpl0C:
-    citations: 34
+    citations: 36
     title: 'Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning'
     year: '2025'
   U8CS_BwAAAAJ:eQOLeE2rZwMC:
-    citations: 20
+    citations: 21
     title: 'MemVerse: Multimodal Memory for Lifelong Learning Agents'
     year: '2025'
   U8CS_BwAAAAJ:roLk4NBRz8UC:
