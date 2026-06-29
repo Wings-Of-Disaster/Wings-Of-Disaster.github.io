@@ -26,9 +26,7 @@ latest_posts:
 
 <!-- I am a third-year Master's student in Computer Science at [**Tongji University**](https://www.tongji.edu.cn/) and a Research Intern at the [**Shanghai AI Lab**](https://www.shlab.org.cn/). My research primarily focuses on **Generative Intelligence**, **Multimodal Reasoning**, and **Graph Theory**. -->
 
-I am currently a Research Intern at [**Shanghai AI Lab**](https://www.shlab.org.cn/), where I work on topics related to **<span style="color:#b00020;">Generative Intelligence</span>**,
-**<span style="color:#b00020;">Multimodal Reasoning</span>**, and
-**<span style="color:#b00020;">Graph Theory</span>**. Prior to this, I received my Master’s degree in Computer Science from [**Tongji University**](https://www.tongji.edu.cn/).
+I am currently a Research Intern at [**Shanghai AI Lab**](https://www.shlab.org.cn/), where I work on topics related to **<span style="color:#b00020;">Generative Intelligence</span>**, **<span style="color:#b00020;">Multimodal Reasoning</span>**, and **<span style="color:#b00020;">Graph Theory</span>**. Prior to this, I received my Master’s degree in Computer Science from [**Tongji University**](https://www.tongji.edu.cn/).
 
 <!-- and my Bachelor’s degree in Intelligent Science from [**Dalian Maritime University**](https://www.dlmu.edu.cn/). -->
 
@@ -36,15 +34,20 @@ I am currently a Research Intern at [**Shanghai AI Lab**](https://www.shlab.org.
 
 <!-- I am dedicated to building next-generation intelligence that is both robust and inherently explainable. -->
 
-My work seeks to enhance the creative fidelity and cognitive depth of AI systems, while ensuring logical consistency through knowledge representations.
+My work seeks to enhance the creative capabilities and cognitive depth of AI systems, while ensuring logical consistency through knowledge representations.
 Recently, my research has been centered around the following areas:
 
 - Generative Modeling for Scientific Discovery.
-- Memory-Augmented Agents.
-- Post-training of Multimodal Large Language Models for Spatial Cognition.
+- Memory-Augmented AI Agents.
+- Mid-training and Post-training of Multimodal Large Language Models.
 
 <!-- **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me. -->
 
 <!-- I’m an incoming PhD student at [**The University of Melbourne**](https://www.unimelb.edu.au/), advised by [**Prof. Jianzhong Qi**](https://jianzhongqi.github.io/) and [**Dr. Hanzhi Wang**](https://wanghzccls.github.io/). I am actively open to research collaboration. Please feel free to contact me. -->
 
-I am actively seeking <span style="color:#1a5276;"><b>Research Assistant</b></span> positions, <span style="color:#1a5276;"><b>Research Internships</b></span>, and <span style="color:#1a5276;"><b>Collaborations</b></span>. I am available for both on-site and remote opportunities. Please feel free to contact me.
+<!-- I am actively seeking <span style="color:#1a5276;"><b>Research Assistant</b></span> positions, <span style="color:#1a5276;"><b>Research Internships</b></span>, and <span style="color:#1a5276;"><b>Collaborations</b></span>.  -->
+
+I am actively seeking <span style="color:#1a5276;"><b>Research Assistant</b></span>,
+<span style="color:#1a5276;"><b>Research Internship</b></span>, and
+<span style="color:#1a5276;"><b>Research Collaboration</b></span>.
+I am available for both on-site and remote opportunities. Please feel free to contact me.
