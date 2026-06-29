@@ -28,7 +28,9 @@ latest_posts:
 
 I am currently a Research Intern at [**Shanghai AI Lab**](https://www.shlab.org.cn/), where I work on topics related to **<span style="color:#b00020;">Generative Intelligence</span>**,
 **<span style="color:#b00020;">Multimodal Reasoning</span>**, and
-**<span style="color:#b00020;">Graph Theory</span>**. Prior to this, I received my Master’s degree in Computer Science from [**Tongji University**](https://www.tongji.edu.cn/), and my Bachelor’s degree in Intelligent Science from [**Dalian Maritime University**](https://www.dlmu.edu.cn/).
+**<span style="color:#b00020;">Graph Theory</span>**. Prior to this, I received my Master’s degree in Computer Science from [**Tongji University**](https://www.tongji.edu.cn/).
+
+<!-- and my Bachelor’s degree in Intelligent Science from [**Dalian Maritime University**](https://www.dlmu.edu.cn/). -->
 
 <!-- My work aims to advance the capability of AI systems in generative modeling and multimodal cognition, while exploring structured knowledge representations for more reliable and interpretable intelligence. -->
 
