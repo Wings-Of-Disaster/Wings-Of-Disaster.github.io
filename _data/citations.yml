@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-08'
 papers:
   U8CS_BwAAAAJ:2osOgNQ5qMEC:
-    citations: 7
+    citations: 8
     title: 'AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis'
     year: '2025'
   U8CS_BwAAAAJ:9yKSN-GCB0IC:
-    citations: 78
+    citations: 82
     title: 'HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation'
     year: '2025'
   U8CS_BwAAAAJ:IjCSPb-OGe4C:
@@ -22,17 +22,13 @@ papers:
     title: 'Hit-RAG: Learning to Reason with Long Contexts via Preference Alignment'
     year: '2026'
   U8CS_BwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 7
+    citations: 8
     title: 'From ranking to selection: A simple but efficient dynamic passage selector for retrieval augmented generation'
     year: '2025'
   U8CS_BwAAAAJ:ULOm3_A8WrAC:
     citations: 0
     title: 'AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization'
     year: '2026'
-  U8CS_BwAAAAJ:UeHWp8X0CEIC:
-    citations: 3
-    title: 'Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments'
-    year: '2025'
   U8CS_BwAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: 'ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion'
@@ -42,7 +38,7 @@ papers:
     title: 'EpiPlanAgent: Agentic Automated Epidemic Response Planning'
     year: '2025'
   U8CS_BwAAAAJ:Y0pCki6q_DkC:
-    citations: 8
+    citations: 11
     title: 'Mga: Memory-driven gui agent for observation-centric interaction'
     year: '2025'
   U8CS_BwAAAAJ:YOwf2qJgpHMC:
@@ -50,7 +46,7 @@ papers:
     title: Self-Evolving Spatial Reasoning in Vision Language Models via Geometric Logic Consistency
     year: '2026'
   U8CS_BwAAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 4
     title: 'DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting'
     year: '2025'
   U8CS_BwAAAAJ:Zph67rFs4hoC:
@@ -58,15 +54,19 @@ papers:
     title: 'MemCoT: Test-Time Scaling through Memory-Driven Chain-of-Thought'
     year: '2026'
   U8CS_BwAAAAJ:_FxGoFyzp5QC:
-    citations: 8
+    citations: 10
     title: 'FedRecon: Missing Modality Reconstruction in Heterogeneous Distributed Environments'
     year: '2025'
+  U8CS_BwAAAAJ:_kc_bZDykSQC:
+    citations: 3
+    title: 'Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments'
+    year: '2026'
   U8CS_BwAAAAJ:d1gkVwhDpl0C:
-    citations: 36
+    citations: 38
     title: 'Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning'
     year: '2025'
   U8CS_BwAAAAJ:eQOLeE2rZwMC:
-    citations: 21
+    citations: 23
     title: 'MemVerse: Multimodal Memory for Lifelong Learning Agents'
     year: '2025'
   U8CS_BwAAAAJ:roLk4NBRz8UC:
@@ -74,10 +74,10 @@ papers:
     title: Hierarchical Memory Orchestration for Personalized Persistent Agents
     year: '2026'
   U8CS_BwAAAAJ:ufrVoPGSRksC:
-    citations: 11
+    citations: 21
     title: A Comprehensive Survey of Interaction Techniques in 3D Scene Generation
     year: '2026'
   U8CS_BwAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: 'TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling'
     year: '2025'
