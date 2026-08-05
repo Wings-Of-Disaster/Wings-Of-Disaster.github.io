@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-05'
 papers:
   U8CS_BwAAAAJ:2osOgNQ5qMEC:
     citations: 7
     title: 'AI-Driven Assessment of Lip Volume Improvement Using Hyaluronic Acid Fillers: A Comprehensive Analysis'
     year: '2025'
   U8CS_BwAAAAJ:9yKSN-GCB0IC:
-    citations: 84
+    citations: 90
     title: 'HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation'
     year: '2025'
   U8CS_BwAAAAJ:IjCSPb-OGe4C:
@@ -18,11 +18,11 @@ papers:
     title: Domain-Adaptive Model Merging Across Disconnected Modes
     year: '2026'
   U8CS_BwAAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: 'Hit-RAG: Learning to Reason with Long Contexts via Preference Alignment'
     year: '2026'
   U8CS_BwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 8
+    citations: 9
     title: 'From ranking to selection: A simple but efficient dynamic passage selector for retrieval augmented generation'
     year: '2025'
   U8CS_BwAAAAJ:ULOm3_A8WrAC:
@@ -35,7 +35,7 @@ papers:
     year: '2025'
   U8CS_BwAAAAJ:WF5omc3nYNoC:
     citations: 1
-    title: 'EpiPlanAgent: Agentic Automated Epidemic Response Planning'
+    title: 'Epiplanagent: Agentic automated epidemic response planning'
     year: '2025'
   U8CS_BwAAAAJ:Y0pCki6q_DkC:
     citations: 12
@@ -46,8 +46,8 @@ papers:
     title: Self-Evolving Spatial Reasoning in Vision Language Models via Geometric Logic Consistency
     year: '2026'
   U8CS_BwAAAAJ:YsMSGLbcyi4C:
-    citations: 5
-    title: 'DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting'
+    citations: 8
+    title: 'Ddtime: Dataset distillation with spectral alignment and information bottleneck for time-series forecasting'
     year: '2025'
   U8CS_BwAAAAJ:Zph67rFs4hoC:
     citations: 0
@@ -62,22 +62,22 @@ papers:
     title: 'Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments'
     year: '2026'
   U8CS_BwAAAAJ:d1gkVwhDpl0C:
-    citations: 39
+    citations: 40
     title: 'Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning'
     year: '2025'
   U8CS_BwAAAAJ:eQOLeE2rZwMC:
-    citations: 25
+    citations: 26
     title: 'MemVerse: Multimodal Memory for Lifelong Learning Agents'
     year: '2025'
   U8CS_BwAAAAJ:roLk4NBRz8UC:
-    citations: 0
-    title: Hierarchical Memory Orchestration for Personalized Persistent Agents
+    citations: 2
+    title: Hierarchical memory orchestration for personalized persistent agents
     year: '2026'
   U8CS_BwAAAAJ:ufrVoPGSRksC:
-    citations: 27
+    citations: 39
     title: A Comprehensive Survey of Interaction Techniques in 3D Scene Generation
     year: '2026'
   U8CS_BwAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
-    title: 'TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling'
+    citations: 3
+    title: 'Timemkg: Knowledge-infused causal reasoning for multivariate time series modeling'
     year: '2025'
