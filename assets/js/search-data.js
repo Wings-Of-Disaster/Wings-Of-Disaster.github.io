@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-miscellaneous",
           title: "Miscellaneous",
-          description: "",
+          description: "Training arcs, boss fights, world titles, and an ever-growing video vault.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/miscellaneous/";
