@@ -36,16 +36,22 @@ cv:
         studyType: Bachelor
         start_date: 2019
         end_date: 2023
-        highlights:
-          - "Advisor: [Prof. Yijia Zhang](https://dmu-itrec.github.io/zhangyijia.github.io/)"
 
     Experience:
+      - company: Token Foundry, Alibaba
+        position: Researcher
+        location: Hangzhou, China
+        start_date: 2026
+        end_date: present
+        url: https://tongyi.aliyun.com/
+        summary: Conducted research on self-evolving AI systems, with a focus on recursive self-improvement and open-ended learning.
+
       - company: Shanghai Artificial Intelligence Laboratory
         position: Researcher
         location: Shanghai, China
         start_date: 2025
         end_date: 2026
-        summary: Conducted research on AI agents.
+        summary: Conducted research on memory-augmented AI agents and multimodal reasoning.
         highlights:
           - "Advisor: [Dr. Ding Wang](https://dw2283.github.io/wangding.github.io/)"
 

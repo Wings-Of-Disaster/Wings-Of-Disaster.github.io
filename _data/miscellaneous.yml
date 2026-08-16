@@ -1,0 +1,96 @@
+hero:
+  eyebrow: "SIDE QUESTS / MAIN CHARACTER ENERGY"
+  title_lead: "I lift. I game."
+  title_accent: "I collect world titles."
+  intro: >
+    Research is the main quest, not the whole map. Off the clock, I train,
+    challenge demigods, queue for one more game, and occasionally accept
+    trophies from esports legends.
+  status: "PLAYER ONE · ONLINE"
+
+ticker:
+  - "STRENGTH +1"
+  - "ELDEN LORD"
+  - "WORLD CHAMPION"
+  - "MAJOR CHAMPION"
+  - "ONE MORE REP"
+  - "ONE MORE ROUND"
+
+lore:
+  - number: "01"
+    theme: "acid"
+    size: "wide"
+    icon: "fa-solid fa-dumbbell"
+    kicker: "THE TRAINING ARC"
+    title: "Yes, I lift."
+    body: >
+      Progressive overload in the gym, progressive ablations in the lab.
+      Different equipment; exactly the same refusal to stop early.
+    meta: "Strength · Conditioning · Consistency"
+
+  - number: "02"
+    theme: "gold"
+    size: "standard"
+    icon: "fa-solid fa-crown"
+    kicker: "THE LANDS BETWEEN"
+    title: "Elden Lord."
+    body: >
+      I crossed the fog, challenged the demigods, and claimed the throne.
+      Reviewer two was still harder.
+    meta: "Great Runes · Crown secured · NG+"
+
+  - number: "03"
+    theme: "worlds"
+    size: "standard"
+    icon: "fa-solid fa-trophy"
+    kicker: "SUMMONER'S RIFT"
+    title: "World Champion."
+    body: >
+      Faker said the fifth trophy was for those who believed in T1 no matter
+      what. I believed. The chain of custody is impeccable.
+    quote: "“The fifth trophy is for you.” — Faker"
+    link_label: "Faker said so"
+    link_url: "https://www.youtube.com/watch?v=SuwPaNAZlF0"
+
+  - number: "04"
+    theme: "major"
+    size: "wide"
+    icon: "fa-solid fa-crosshairs"
+    kicker: "COUNTER-STRIKE"
+    title: "Major Champion."
+    body: >
+      NiKo sent the trophy. The tracking number was a one-tap, the delivery
+      was a clutch, and the Major now lives on my shelf.
+    quote: "“You will get it.” — NiKo"
+    link_label: "NiKo said so"
+    link_url: "https://www.twitch.tv/eslcs/clip/ClearOilyPanPogChamp-GMTGwClWAkF5XjQX"
+
+videos:
+  - type: "local"
+    featured: true
+    eyebrow: "TRAINING / MOTION STUDY"
+    title: "Built, not spawned."
+    description: >
+      A temporary training reel while the personal video vault is being
+      assembled.
+    src: "/assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4"
+
+  - type: "youtube"
+    eyebrow: "WORLDS / RECEIPT 01"
+    title: "Faker made it official."
+    description: "The fifth trophy found another champion."
+    embed: "https://www.youtube-nocookie.com/embed/SuwPaNAZlF0?rel=0"
+    src: "https://www.youtube.com/watch?v=SuwPaNAZlF0"
+
+  - type: "youtube"
+    eyebrow: "MAJOR / RECEIPT 02"
+    title: "NiKo completed the delivery."
+    description: "Dreams, trophies, and an extremely reliable courier."
+    embed: "https://www.youtube-nocookie.com/embed/aVsYFhXhhyU?rel=0"
+    src: "https://www.youtube.com/watch?v=aVsYFhXhhyU"
+
+  - type: "placeholder"
+    eyebrow: "NEXT DROP / BOSS FIGHT"
+    title: "More chaos incoming."
+    description: >
+      Gym logs, game clips, travel cuts, and whatever becomes lore next.
