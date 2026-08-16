@@ -38,7 +38,7 @@ My work seeks to enhance the creative capabilities and cognitive depth of AI sys
 Recently, my research has been centered around the following areas:
 
 - Generative Modeling for Scientific Discovery.
-- Memory-Augmented AI Agents.
+- Self-Evolving Long-Horizon Agents.
 - Pre-training and Post-training of Multimodal Large Language Models.
 
 <!-- **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me. -->
