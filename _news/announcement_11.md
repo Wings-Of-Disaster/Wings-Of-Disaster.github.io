@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join [Tongyi, Alibaba](https://tongyi.aliyun.com/) as a Research Intern, targeting self-evolving AI systems!⚡️⚡️
+Join Token Foundry at Alibaba as a Research Intern, targeting Self-Evolving AI Systems!⚡️⚡️
