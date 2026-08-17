@@ -1,11 +1,10 @@
 sports:
   intro: >
-    I love sport in all its forms: bench press and pull-ups, rackets and
-    courts, slopes and pools, bows and horses.
+    Sport is a constant in my life.
   team_note: >
-    For now, my sporting life is pleasantly atomized—a workout here, a rally
-    there. If your team is building something bigger, I would be glad to join
-    and meet people who love sport as much as I do.
+    For now, my sporting life remains largely atomized. I would gladly join a
+    team, take on something larger, and meet a few kindred spirits along the
+    way.
   activities:
     - name: Strength Training
       icon: fa-solid fa-dumbbell
@@ -28,9 +27,6 @@ sports:
     - name: Equestrian
       icon: fa-solid fa-horse
 games:
-  intro: >
-    I enjoy games for competition, exploration, and stories. Here are three
-    of my titles; more will follow.
   achievements:
     - label: LEAGUE OF LEGENDS · S14 WORLDS
       title: League of Legends World Champion

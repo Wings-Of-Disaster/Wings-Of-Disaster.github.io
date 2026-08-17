@@ -2,7 +2,7 @@
 layout: page
 permalink: /miscellaneous/
 title: Miscellaneous
-description: Sports, games, and whatever comes next.
+description: ""
 nav: true
 nav_order: 7
 ---
@@ -32,7 +32,6 @@ nav_order: 7
 <section class="misc-chapter" aria-labelledby="games-title">
   <header class="misc-chapter__header">
     <h2 id="games-title">Games</h2>
-    <p>{{ misc.games.intro }}</p>
   </header>
 
   <div class="misc-game-list">
@@ -54,5 +53,3 @@ nav_order: 7
     {% endfor %}
   </div>
 </section>
-
-<p class="misc-ending">More chapters will be added over time.</p>

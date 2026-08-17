@@ -141,13 +141,6 @@
   font-weight: 600;
 }
 
-.misc-ending {
-  margin: 0;
-  color: var(--global-text-color-light);
-  font-size: 0.8rem;
-  font-style: italic;
-}
-
 @media (max-width: 720px) {
   .misc-sport-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
