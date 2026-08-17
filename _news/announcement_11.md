@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join [Tongyi, Alibaba](https://tongyi.aliyun.com/) as a Researcher, targeting self-evolving AI systems!⚡️⚡️
+Join [Tongyi, Alibaba](https://tongyi.aliyun.com/) as a Research Intern, targeting self-evolving AI systems!⚡️⚡️
