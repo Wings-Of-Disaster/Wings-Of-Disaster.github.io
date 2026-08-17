@@ -42,8 +42,7 @@ cv:
         position: Researcher
         location: Hangzhou, China
         start_date: 2026
-        end_date: present
-        url: https://tongyi.aliyun.com/
+        end_date: 2026
         summary: Conducted research on self-evolving AI systems, with a focus on recursive self-improvement and open-ended learning.
 
       - company: Shanghai Artificial Intelligence Laboratory
