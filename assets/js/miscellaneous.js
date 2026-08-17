@@ -33,7 +33,7 @@
     localVideos.forEach((video) => updateVideoPlayback(video, false));
   });
 
-  page.querySelectorAll(".misc-lore-card").forEach((card) => {
+  page.querySelectorAll(".misc-story-card").forEach((card) => {
     card.addEventListener("pointermove", (event) => {
       const bounds = card.getBoundingClientRect();
       card.style.setProperty("--pointer-x", `${event.clientX - bounds.left}px`);
