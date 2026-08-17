@@ -1,31 +1,45 @@
 hero:
-  eyebrow: "OFF THE CLOCK"
+  eyebrow: "MISCELLANEOUS / VOL. 01"
   title_lead: "I lift. I game."
   title_accent: "I collect world titles."
   intro: >
     Research is the main quest, not the whole map. Outside the lab, I train,
     explore impossible worlds, and take esports legends at their word.
-  video_src: "/assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4"
-  video_label: "NOW PLAYING"
-  video_title: "The training arc"
 
 interests:
-  - "Strength training"
-  - "Elden Ring"
-  - "League of Legends"
-  - "Counter-Strike"
+  - number: "01"
+    name: "Strength training"
+    detail: "One more rep"
+    theme: "fitness"
+
+  - number: "02"
+    name: "The Lands Between"
+    detail: "Throne claimed"
+    theme: "elden"
+
+  - number: "03"
+    name: "Summoner's Rift"
+    detail: "World champion"
+    theme: "worlds"
+
+  - number: "04"
+    name: "Counter-Strike"
+    detail: "Major champion"
+    theme: "major"
 
 stories:
-  - theme: "fitness"
+  - number: "01"
+    theme: "fitness"
     icon: "fa-solid fa-dumbbell"
-    label: "FITNESS"
-    title: "Built in the gym."
+    label: "STRENGTH TRAINING"
+    title: "The training arc."
     body: >
       Progressive overload in the gym; unreasonable persistence everywhere
-      else. One more rep is usually the right answer.
+      else. Different equipment, same refusal to stop early.
     note: "Strength · Conditioning · Consistency"
 
-  - theme: "elden"
+  - number: "02"
+    theme: "elden"
     icon: "fa-solid fa-crown"
     label: "ELDEN RING"
     title: "Elden Lord."
@@ -34,42 +48,37 @@ stories:
       Reviewer two remains the harder boss.
     note: "Great Runes · Crown secured · NG+"
 
-  - theme: "worlds"
+  - number: "03"
+    theme: "worlds"
     icon: "fa-solid fa-trophy"
     label: "LEAGUE OF LEGENDS"
     title: "World Champion."
     body: >
       Faker said the fifth trophy was for those who believed in T1 no matter
-      what. I believed. That sounds official enough to me.
-    link_label: "Watch the handover"
+      what. I believed. The chain of custody is impeccable.
+    link_label: "Faker said so"
     link_url: "https://www.youtube.com/watch?v=SuwPaNAZlF0"
 
-  - theme: "major"
+  - number: "04"
+    theme: "major"
     icon: "fa-solid fa-crosshairs"
     label: "COUNTER-STRIKE"
     title: "Major Champion."
     body: >
-      NiKo said I would get it. The Major trophy now lives on my shelf; the
-      clutch gene is still in transit.
-    link_label: "Hear it from NiKo"
+      NiKo said I would get it. The trophy now lives on my shelf; the clutch
+      gene is still in transit.
+    link_label: "NiKo said so"
     link_url: "https://www.twitch.tv/eslcs/clip/ClearOilyPanPogChamp-GMTGwClWAkF5XjQX"
 
 videos:
-  - type: "youtube"
-    label: "WORLDS 2024"
+  - label: "WORLDS 2024"
     title: "The fifth trophy"
-    description: "Faker made every believer a world champion."
+    description: "Faker made every believer a world champion. I simply accepted the title."
     embed: "https://www.youtube-nocookie.com/embed/SuwPaNAZlF0?rel=0"
     src: "https://www.youtube.com/watch?v=SuwPaNAZlF0"
 
-  - type: "youtube"
-    label: "IEM COLOGNE 2026"
+  - label: "IEM COLOGNE 2026"
     title: "Never give up"
-    description: "NiKo finally lifted the Major—and delivered a line worth keeping."
+    description: "NiKo lifted the Major and completed a very important delivery."
     embed: "https://www.youtube-nocookie.com/embed/aVsYFhXhhyU?rel=0"
     src: "https://www.youtube.com/watch?v=aVsYFhXhhyU"
-
-  - type: "placeholder"
-    label: "NEXT UP"
-    title: "The personal video vault"
-    description: "Training logs, game clips, travel cuts, and whatever becomes fun next."

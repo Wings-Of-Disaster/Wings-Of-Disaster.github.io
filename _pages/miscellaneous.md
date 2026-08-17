@@ -11,70 +11,61 @@ nav_order: 7
 
 <section class="misc-hero" aria-labelledby="misc-title">
   <div class="misc-hero__copy">
-    <p class="misc-eyebrow">
-      <span aria-hidden="true"></span>
-      {{ misc.hero.eyebrow }}
-    </p>
+    <p class="misc-eyebrow">{{ misc.hero.eyebrow }}</p>
     <h1 id="misc-title" class="misc-hero__title">
       {{ misc.hero.title_lead }}
       <strong>{{ misc.hero.title_accent }}</strong>
     </h1>
     <p class="misc-hero__intro">{{ misc.hero.intro }}</p>
-
-    <ul class="misc-interest-list" aria-label="Interests">
-      {% for interest in misc.interests %}
-        <li>{{ interest }}</li>
-      {% endfor %}
-    </ul>
-
-    <a class="misc-hero__link" href="#video-journal">
-      Explore the video journal
+    <a class="misc-text-link" href="#video-journal">
+      Watch the highlights
       <i class="fa-solid fa-arrow-down" aria-hidden="true"></i>
     </a>
   </div>
 
-  <div class="misc-hero__visual">
-    <video
-      src="{{ misc.hero.video_src | relative_url }}"
-      muted
-      loop
-      playsinline
-      preload="metadata"
-      aria-label="{{ misc.hero.video_title }}"
-    ></video>
-    <div class="misc-hero__visual-overlay" aria-hidden="true"></div>
-    <div class="misc-hero__now-playing">
-      <span>{{ misc.hero.video_label }}</span>
-      <strong>{{ misc.hero.video_title }}</strong>
-    </div>
-    <div class="misc-hero__monogram" aria-hidden="true">WOD</div>
-  </div>
+  <aside class="misc-index" aria-label="Player profile">
+    <header class="misc-index__header">
+      <span>PLAYER PROFILE</span>
+      <span class="misc-index__status"><i aria-hidden="true"></i> ONLINE</span>
+    </header>
+    <ol>
+      {% for interest in misc.interests %}
+        <li class="misc-index__item misc-index__item--{{ interest.theme }}">
+          <span>{{ interest.number }}</span>
+          <strong>{{ interest.name }}</strong>
+          <small>{{ interest.detail }}</small>
+        </li>
+      {% endfor %}
+    </ol>
+  </aside>
 </section>
+
+<div class="misc-spectrum" aria-hidden="true"></div>
 
 <section class="misc-section" aria-labelledby="stories-title">
   <header class="misc-section__header">
     <div>
-      <p class="misc-eyebrow">CURRENT SIDE QUESTS</p>
-      <h2 id="stories-title">A few things I take seriously.</h2>
+      <p class="misc-eyebrow">SELECTED SIDE QUESTS</p>
+      <h2 id="stories-title">Life outside the lab.</h2>
     </div>
-    <p>Some achievements belong on a CV. These are more fun.</p>
+    <p>Four interests. Questionable skill allocation. No regrets.</p>
   </header>
 
   <div class="misc-story-grid">
     {% for story in misc.stories %}
-      <article class="misc-story-card misc-story-card--{{ story.theme }}">
-        <div class="misc-story-card__glow" aria-hidden="true"></div>
-        <div class="misc-story-card__top">
-          <span class="misc-story-card__icon" aria-hidden="true">
-            <i class="{{ story.icon }}"></i>
-          </span>
-          <span class="misc-story-card__label">{{ story.label }}</span>
-        </div>
-        <div class="misc-story-card__copy">
+      <article class="misc-story misc-story--{{ story.theme }}">
+        <header class="misc-story__header">
+          <span class="misc-story__number">{{ story.number }}</span>
+          <span class="misc-story__label">{{ story.label }}</span>
+          <i class="{{ story.icon }}" aria-hidden="true"></i>
+        </header>
+        <div class="misc-story__copy">
           <h3>{{ story.title }}</h3>
           <p>{{ story.body }}</p>
+        </div>
+        <footer class="misc-story__footer">
           {% if story.note %}
-            <small>{{ story.note }}</small>
+            <span>{{ story.note }}</span>
           {% endif %}
           {% if story.link_url %}
             <a href="{{ story.link_url }}" target="_blank" rel="noopener noreferrer">
@@ -82,7 +73,7 @@ nav_order: 7
               <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
             </a>
           {% endif %}
-        </div>
+        </footer>
       </article>
     {% endfor %}
   </div>
@@ -92,41 +83,32 @@ nav_order: 7
   <header class="misc-section__header">
     <div>
       <p class="misc-eyebrow">VIDEO JOURNAL</p>
-      <h2 id="videos-title">On repeat.</h2>
+      <h2 id="videos-title">A small screen, for now.</h2>
     </div>
-    <p>A growing collection of training logs, game moments, and everyday chaos.</p>
+    <p>More training logs, game clips, and everyday chaos will arrive over time.</p>
   </header>
 
   <div class="misc-video-grid">
     {% for video in misc.videos %}
-      <article class="misc-video-card {% if video.type == 'placeholder' %}misc-video-card--placeholder{% endif %}">
-        {% if video.type == 'youtube' %}
-          <div class="misc-video-card__player">
-            <iframe
-              src="{{ video.embed }}"
-              title="{{ video.title }}"
-              loading="lazy"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
-            ></iframe>
-          </div>
-        {% else %}
-          <div class="misc-video-card__empty" aria-hidden="true">
-            <i class="fa-solid fa-plus"></i>
-          </div>
-        {% endif %}
-
-        <div class="misc-video-card__copy">
+      <article class="misc-video">
+        <div class="misc-video__player">
+          <iframe
+            src="{{ video.embed }}"
+            title="{{ video.title }}"
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="misc-video__copy">
           <span>{{ video.label }}</span>
           <h3>{{ video.title }}</h3>
           <p>{{ video.description }}</p>
-          {% if video.src %}
-            <a href="{{ video.src }}" target="_blank" rel="noopener noreferrer">
-              Watch video
-              <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
-            </a>
-          {% endif %}
+          <a href="{{ video.src }}" target="_blank" rel="noopener noreferrer" aria-label="Watch {{ video.title }} on the source site">
+            Watch source
+            <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+          </a>
         </div>
       </article>
     {% endfor %}
@@ -134,6 +116,6 @@ nav_order: 7
 </section>
 
 <footer class="misc-footer">
-  <span>More life. More clips. More side quests.</span>
-  <i class="fa-solid fa-bolt" aria-hidden="true"></i>
+  <span>The archive is still growing.</span>
+  <span>More life, more clips, more side quests.</span>
 </footer>
