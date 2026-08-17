@@ -1,0 +1,67 @@
+sports:
+  intro: >
+    I love sport in almost every form. In the gym, I especially enjoy the
+    bench press and pull-ups; elsewhere, I am usually happy whenever there is
+    a racket, ball, slope, pool, target, or horse involved.
+  team_note: >
+    My sporting life is still a little atomized: a workout here, a rally there,
+    and the occasional new sport in between. If your team needs one more
+    person to do something bigger, I would be happy to join—and happier still
+    to meet people who simply enjoy moving together.
+  activities:
+    - name: Strength Training
+      icon: fa-solid fa-dumbbell
+    - name: Badminton
+      icon: fa-solid fa-feather
+    - name: Basketball
+      icon: fa-solid fa-basketball
+    - name: Tennis
+      icon: fa-regular fa-circle
+    - name: Pickleball
+      icon: fa-solid fa-table-tennis-paddle-ball
+    - name: Table Tennis
+      icon: fa-solid fa-table-tennis-paddle-ball
+    - name: Skiing
+      icon: fa-solid fa-person-skiing
+    - name: Swimming
+      icon: fa-solid fa-person-swimming
+    - name: Archery
+      icon: fa-solid fa-bullseye
+    - name: Equestrian
+      icon: fa-solid fa-horse
+games:
+  intro: >
+    I enjoy games as competition, exploration, and a good source of stories.
+    These are the first three titles in the record; more will follow.
+  achievements:
+    - label: LEAGUE OF LEGENDS · S14 WORLDS
+      title: League of Legends World Champion
+      image: https://i.ytimg.com/vi/SuwPaNAZlF0/maxresdefault.jpg
+      image_alt: Faker and T1 at the 2024 League of Legends World Championship
+      body: >
+        I am a Season 14 League of Legends World Champion. After T1 secured its
+        fifth title in 2024, Faker said, “The fifth trophy is for you.” I took
+        him at his word.
+      link_label: Watch Faker's message
+      link_url: https://www.youtube.com/watch?v=SuwPaNAZlF0
+
+    - label: COUNTER-STRIKE · IEM COLOGNE 2026
+      title: Counter-Strike Major Champion
+      image: https://i.ytimg.com/vi/aVsYFhXhhyU/maxresdefault.jpg
+      image_alt: NiKo after winning the IEM Cologne 2026 Major
+      body: >
+        I am a Counter-Strike Major Champion. NiKo handled the difficult part
+        at IEM Cologne 2026, then completed the handover with one promise:
+        “You will get it.”
+      link_label: Hear it from NiKo
+      link_url: https://www.twitch.tv/eslcs/clip/ClearOilyPanPogChamp-GMTGwClWAkF5XjQX
+
+    - label: ELDEN RING · THE LANDS BETWEEN
+      title: Elden Lord
+      image: https://i.ytimg.com/vi/E3Huy2cdih0/maxresdefault.jpg
+      image_alt: The Lands Between in Elden Ring
+      body: >
+        I crossed the fog, defeated the demigods, gathered the Great Runes,
+        and claimed the throne. I am now Elden Lord of the Lands Between.
+      link_label: Enter the Lands Between
+      link_url: https://www.bandainamcoent.com/games/elden-ring

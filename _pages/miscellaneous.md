@@ -2,23 +2,57 @@
 layout: page
 permalink: /miscellaneous/
 title: Miscellaneous
-description: Things I enjoy and achievements outside research.
+description: Sports, games, and whatever comes next.
 nav: true
 nav_order: 7
 ---
 
-Outside research, I enjoy strength training and video games. I will continue adding training videos, game clips, and other moments from my life to this page.
+{% assign misc = site.data.miscellaneous %}
 
-## Achievements
+<section class="misc-chapter" aria-labelledby="sports-title">
+  <header class="misc-chapter__header">
+    <h2 id="sports-title">Sports</h2>
+    <p>{{ misc.sports.intro }}</p>
+  </header>
 
-- **Strength Training.** I train regularly and continue working on my strength, conditioning, and physique.
-- **Elden Ring — Elden Lord.** I defeated the demigods, completed my journey through the Lands Between, and became Elden Lord.
-- **League of Legends — World Champion.** Faker dedicated T1's fifth World Championship trophy to everyone who believed in them, including me. [“The fifth trophy is for you.” — Faker](https://www.youtube.com/watch?v=SuwPaNAZlF0)
-- **Counter-Strike — Major Champion.** NiKo gave me the Major trophy after finally winning it himself. [“You will get it.” — NiKo](https://www.twitch.tv/eslcs/clip/ClearOilyPanPogChamp-GMTGwClWAkF5XjQX)
+  <ul class="misc-sport-list" aria-label="Sports I enjoy">
+    {% for activity in misc.sports.activities %}
+      <li>
+        <i class="{{ activity.icon }}" aria-hidden="true"></i>
+        <span>{{ activity.name }}</span>
+      </li>
+    {% endfor %}
+  </ul>
 
-## Videos
+  <div class="misc-sports-note">
+    <p>{{ misc.sports.team_note }}</p>
+  </div>
+</section>
 
-- [Faker: The fifth trophy is for you](https://www.youtube.com/watch?v=SuwPaNAZlF0)
-- [NiKo: Never give up](https://www.youtube.com/watch?v=aVsYFhXhhyU)
+<section class="misc-chapter" aria-labelledby="games-title">
+  <header class="misc-chapter__header">
+    <h2 id="games-title">Games</h2>
+    <p>{{ misc.games.intro }}</p>
+  </header>
 
-More training videos, game clips, and travel videos will be added here.
+  <div class="misc-game-list">
+    {% for game in misc.games.achievements %}
+      <article class="misc-game">
+        <a class="misc-game__image" href="{{ game.link_url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ game.title }}">
+          <img src="{{ game.image }}" alt="{{ game.image_alt }}" loading="lazy">
+        </a>
+        <div class="misc-game__copy">
+          <span>{{ game.label }}</span>
+          <h3>{{ game.title }}</h3>
+          <p>{{ game.body }}</p>
+          <a href="{{ game.link_url }}" target="_blank" rel="noopener noreferrer">
+            {{ game.link_label }}
+            <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+          </a>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<p class="misc-ending">More chapters will be added over time.</p>
