@@ -1,13 +1,11 @@
 sports:
   intro: >
-    I love sport in almost every form. In the gym, I especially enjoy the
-    bench press and pull-ups; elsewhere, I am usually happy whenever there is
-    a racket, ball, slope, pool, target, or horse involved.
+    I love sport in all its forms: bench press and pull-ups, rackets and
+    courts, slopes and pools, bows and horses.
   team_note: >
-    My sporting life is still a little atomized: a workout here, a rally there,
-    and the occasional new sport in between. If your team needs one more
-    person to do something bigger, I would be happy to join—and happier still
-    to meet people who simply enjoy moving together.
+    For now, my sporting life is pleasantly atomized—a workout here, a rally
+    there. If your team is building something bigger, I would be glad to join
+    and meet people who love sport as much as I do.
   activities:
     - name: Strength Training
       icon: fa-solid fa-dumbbell
@@ -31,8 +29,8 @@ sports:
       icon: fa-solid fa-horse
 games:
   intro: >
-    I enjoy games as competition, exploration, and a good source of stories.
-    These are the first three titles in the record; more will follow.
+    I enjoy games for competition, exploration, and stories. Here are three
+    of my titles; more will follow.
   achievements:
     - label: LEAGUE OF LEGENDS · S14 WORLDS
       title: League of Legends World Champion
@@ -40,8 +38,8 @@ games:
       image_alt: Faker and T1 at the 2024 League of Legends World Championship
       body: >
         I am a Season 14 League of Legends World Champion. After T1 secured its
-        fifth title in 2024, Faker said, “The fifth trophy is for you.” I took
-        him at his word.
+        fifth title in 2024, Faker dedicated the trophy to everyone who
+        believed: “The fifth trophy is for you.”
       link_label: Watch Faker's message
       link_url: https://www.youtube.com/watch?v=SuwPaNAZlF0
 
@@ -50,9 +48,8 @@ games:
       image: https://i.ytimg.com/vi/aVsYFhXhhyU/maxresdefault.jpg
       image_alt: NiKo after winning the IEM Cologne 2026 Major
       body: >
-        I am a Counter-Strike Major Champion. NiKo handled the difficult part
-        at IEM Cologne 2026, then completed the handover with one promise:
-        “You will get it.”
+        I am a Counter-Strike Major Champion. NiKo won IEM Cologne 2026 and
+        gave me the title, just as he promised: “You will get it.”
       link_label: Hear it from NiKo
       link_url: https://www.twitch.tv/eslcs/clip/ClearOilyPanPogChamp-GMTGwClWAkF5XjQX
 
