@@ -11,7 +11,7 @@ nav_order: 7
 
 <section class="misc-chapter" aria-labelledby="sports-title">
   <header class="misc-chapter__header">
-    <h2 id="sports-title">Sports & Games</h2>
+    <h2 id="sports-title">Sports</h2>
     <p>{{ misc.sports.intro }}</p>
   </header>
 
@@ -25,7 +25,7 @@ nav_order: 7
   </ul>
 
   <header class="misc-subchapter__header">
-    <h3 id="games-title">Esports & Games</h3>
+    <h3 id="games-title">Esports</h3>
     <p>{{ misc.sports.esports_intro }}</p>
   </header>
 
