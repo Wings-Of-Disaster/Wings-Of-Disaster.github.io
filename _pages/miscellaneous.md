@@ -9,9 +9,13 @@ nav_order: 7
 
 {% assign misc = site.data.miscellaneous %}
 
-<section class="misc-chapter" aria-labelledby="sports-title">
+<section class="misc-chapter" aria-labelledby="play-title">
   <header class="misc-chapter__header">
-    <h2 id="sports-title">Sports</h2>
+    <h2 id="play-title">Play</h2>
+  </header>
+
+  <header class="misc-subchapter__header">
+    <h3 id="sports-title">Sports</h3>
     <p>{{ misc.sports.intro }}</p>
   </header>
 
