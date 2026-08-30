@@ -2695,6 +2695,8 @@ d-citation-list .references .title {
           var rest = grammar.rest;
           if (rest) {
             for (var token in rest) {
+              if (!Object.prototype.hasOwnProperty.call(rest, token)) continue;
+              if (token === "__proto__" || token === "prototype" || token === "constructor") continue;
               grammar[token] = rest[token];
             }
 
@@ -3087,7 +3089,7 @@ d-citation-list .references .title {
       comment: /<!--[\s\S]*?-->/,
       prolog: /<\?[\s\S]+?\?>/,
       doctype: {
-        pattern: /<!DOCTYPE(?:[^>"'[\]]|"[^"]*"|'[^']*')+(?:\[(?:(?!<!--)[^"'\]]|"[^"]*"|'[^']*'|<!--[\s\S]*?-->)*\]\s*)?>/i,
+        pattern: /<!DOCTYPE[^>]{0,10000}>/i,
         greedy: true,
       },
       cdata: /<!\[CDATA\[[\s\S]*?]]>/i,
@@ -3168,13 +3170,10 @@ d-citation-list .references .title {
         };
 
         var def = {};
+        if (tagName === "__proto__" || tagName === "prototype" || tagName === "constructor") return;
+        var escapedTagName = tagName.replace(/[\\^$.*+?()[\]{}|]/g, "\\$&");
         def[tagName] = {
-          pattern: RegExp(
-            /(<__[\s\S]*?>)(?:<!\[CDATA\[[\s\S]*?\]\]>\s*|[\s\S])*?(?=<\/__>)/.source.replace(/__/g, function () {
-              return tagName;
-            }),
-            "i"
-          ),
+          pattern: RegExp("(<" + escapedTagName + "\\b[^>]{0,10000}>)[\\s\\S]{0,200000}?(?=<\\/" + escapedTagName + ">)", "i"),
           lookbehind: true,
           greedy: true,
           inside: inside,
@@ -3330,7 +3329,7 @@ d-citation-list .references .title {
     Prism.languages.insertBefore("javascript", "keyword", {
       regex: {
         pattern:
-          /((?:^|[^$\w\xA0-\uFFFF."'\])\s])\s*)\/(?:\[(?:[^\]\\\r\n]|\\.)*]|\\.|[^/\\\[\r\n])+\/[gimyus]{0,6}(?=(?:\s|\/\*[\s\S]*?\*\/)*(?:$|[\r\n,.;:})\]]|\/\/))/,
+          /((?:^|[=(:,[!&|?{};\r\n])\s*)\/[^/\r\n]{1,500}\/[gimyus]{0,6}/,
         lookbehind: true,
         greedy: true,
       },
@@ -4235,9 +4234,18 @@ ${css}
 
       if (this.hasAttribute("block")) {
         // normalize the tab indents
-        content = content.replace(/\n/, "");
-        const tabs = content.match(/\s*/);
-        content = content.replace(new RegExp("\n" + tabs, "g"), "\n");
+        content = content.replace(/^\r?\n/, "");
+        const indentMatch = content.match(/^[ \t]*/);
+        const indent = indentMatch ? indentMatch[0] : "";
+        if (indent) {
+          content = content
+            .split("\n")
+            .map((line, index) => {
+              if (index === 0 || !line.startsWith(indent)) return line;
+              return line.slice(indent.length);
+            })
+            .join("\n");
+        }
         content = content.trim();
         // wrap code block in pre tag if needed
         if (codeTag.parentNode instanceof ShadowRoot) {
@@ -4646,31 +4654,37 @@ d-references {
   }
 
   function renderTOC(element, headings) {
-    let ToC = `
-  <style>
+    const style = document.createElement("style");
+    style.textContent = `
+	  d-toc {
+	    contain: layout style;
+	    display: block;
+	  }
 
-  d-toc {
-    contain: layout style;
-    display: block;
-  }
+	  d-toc ul {
+	    padding-left: 0;
+	  }
 
-  d-toc ul {
-    padding-left: 0;
-  }
+	  d-toc ul > ul {
+	    padding-left: 24px;
+	  }
 
-  d-toc ul > ul {
-    padding-left: 24px;
-  }
+	  d-toc a {
+	    border-bottom: none;
+	    text-decoration: none;
+	  }
+	  `;
 
-  d-toc a {
-    border-bottom: none;
-    text-decoration: none;
-  }
+    const nav = document.createElement("nav");
+    nav.setAttribute("role", "navigation");
+    nav.className = "table-of-contents";
 
-  </style>
-  <nav role="navigation" class="table-of-contents"></nav>
-  <h2>Table of contents</h2>
-  <ul>`;
+    const tocTitle = document.createElement("h2");
+    tocTitle.textContent = "Table of contents";
+    nav.appendChild(tocTitle);
+
+    const list = document.createElement("ul");
+    nav.appendChild(list);
 
     for (const el of headings) {
       // should element be included in TOC?
@@ -4681,17 +4695,25 @@ d-references {
       const title = el.textContent;
       const link = "#" + el.getAttribute("id");
 
-      let newLine = "<li>" + '<a href="' + link + '">' + title + "</a>" + "</li>";
+      const item = document.createElement("li");
+      const anchor = document.createElement("a");
+      anchor.setAttribute("href", link);
+      anchor.textContent = title;
+      item.appendChild(anchor);
+
       if (el.tagName == "H3") {
-        newLine = "<ul>" + newLine + "</ul>";
+        const nestedList = document.createElement("ul");
+        nestedList.appendChild(item);
+        list.appendChild(nestedList);
       } else {
-        newLine += "<br>";
+        list.appendChild(item);
+        list.appendChild(document.createElement("br"));
       }
-      ToC += newLine;
     }
 
-    ToC += "</ul></nav>";
-    element.innerHTML = ToC;
+    element.textContent = "";
+    element.appendChild(style);
+    element.appendChild(nav);
   }
 
   // Copyright 2018 The Distill Template Authors
