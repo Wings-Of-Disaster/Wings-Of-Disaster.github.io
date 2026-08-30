@@ -38,14 +38,12 @@ cv:
         end_date: 2023
 
     Experience:
-      # Tongyi version for later:
-      # company: Tongyi Lab, Alibaba
-      - company: Alibaba
-        position: Incoming Remote Intern
-        location: Remote
+      - company: Tongyi Lab, Alibaba
+        position: Researcher
+        location: Hangzhou, China
         start_date: 2026
         end_date: 2026
-        summary: Targeting self-evolving AI systems, with a focus on recursive self-improvement and open-ended learning.
+        summary: Conducted research on self-evolving AI systems, with a focus on recursive self-improvement and open-ended learning.
 
       - company: Shanghai Artificial Intelligence Laboratory
         position: Researcher
