@@ -10,3 +10,5 @@ nav_order: 6
   - 2027: AAAI, ICLR, MMM
   - 2026: AAAI, ICME, NeurIPS, SMC
   - 2025: ICME, SMC
+- Workshop Reviewer:
+  - 2026: SD4H @ ICML
