@@ -26,7 +26,7 @@ latest_posts:
 
 <!-- I am a third-year Master's student in Computer Science at [**Tongji University**](https://www.tongji.edu.cn/) and a Research Intern at the [**Shanghai AI Lab**](https://www.shlab.org.cn/). My research primarily focuses on **Generative Intelligence**, **Multimodal Reasoning**, and **Graph Theory**. -->
 
-I am currently a Research Intern at [**Tongyi Lab, Alibaba**](https://tongyi.aliyun.com/) and an incoming PhD student at [**The University of Melbourne**](https://www.unimelb.edu.au/). Previously, I was a Research Intern at [**Shanghai AI Lab**](https://www.shlab.org.cn/). I received my Master’s degree in Computer Science from [**Tongji University**](https://www.tongji.edu.cn/). My research focuses on **<span style="color:#b00020;">Generative Intelligence</span>**, **<span style="color:#b00020;">Multimodal Reasoning</span>**, and **<span style="color:#b00020;">Graph Theory</span>**.
+I am currently a Research Intern at [**Tongyi Lab, Alibaba**](https://tongyi.aliyun.com/). Previously, I was a Research Intern at [**Shanghai AI Lab**](https://www.shlab.org.cn/). I received my Master’s degree in Computer Science from [**Tongji University**](https://www.tongji.edu.cn/). My research focuses on **<span style="color:#b00020;">Generative Intelligence</span>**, **<span style="color:#b00020;">Multimodal Reasoning</span>**, and **<span style="color:#b00020;">Graph Theory</span>**.
 
 <!-- and my Bachelor’s degree in Intelligent Science from [**Dalian Maritime University**](https://www.dlmu.edu.cn/). -->
 
@@ -34,12 +34,13 @@ I am currently a Research Intern at [**Tongyi Lab, Alibaba**](https://tongyi.ali
 
 <!-- I am dedicated to building next-generation intelligence that is both robust and inherently explainable. -->
 
-My work seeks to enhance the creative capabilities and cognitive depth of AI systems, while ensuring logical consistency through knowledge representations.
+My work seeks to enhance the creative capabilities and cognitive depth of AI systems, while ensuring logical consistency through knowledge representations. My ultimate goal is to use AI to understand aging and extend human life.
 Recently, my research has been centered around the following areas:
 
-- Generative Modeling for Scientific Discovery.
 - Self-Evolving Long-Horizon Agents.
 - Pre-training and Post-training of Multimodal Large Language Models.
+- Predictive World Models.
+- Generative Modeling for Scientific Discovery.
 
 <!-- **<span style="color: #dc143c;">I am actively seeking PhD opportunities starting Fall 2026.</span>** I would be thrilled to work with prospective advisors and research groups. Please feel free to contact me. -->
 
