@@ -432,7 +432,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-neuroevolution-for-physical-dynamics-evo-maniearth-has-been-accepted-by-ieee-transactions-on-evolutionary-computation-tevc-congrats-to-all-collaborators",
           title: 'Our paper Neuroevolution for Physical Dynamics (Evo-ManiEarth) has been accepted by IEEE Transactions...',
           description: "",
-          section: "News",},{id: "news-our-paper-mixture-of-experts-with-advanced-integrated-collaboration-mosaic-has-been-accepted-by-knowledge-based-systems-kbs-mosaic-uses-a-mixture-of-experts-to-guide-data-free-knowledge-distillation-in-heterogeneous-distributed-environments-congrats-to-all-collaborators-code-available-at-link",
+          section: "News",},{id: "news-our-paper-mixture-of-experts-with-advanced-integrated-collaboration-mosaic-has-been-accepted-by-knowledge-based-systems-kbs-mosaic-uses-a-mixture-of-experts-to-guide-data-free-knowledge-distillation-in-heterogeneous-distributed-environments-code-available-at-link-congrats-to-all-collaborators",
           title: 'Our paper Mixture-of-Experts with Advanced Integrated Collaboration (Mosaic) has been accepted by Knowledge-Based...',
           description: "",
           section: "News",},{id: "news-join-tongyi-lab-at-alibaba-as-a-research-intern-targeting-self-evolving-ai-systems-️-️",
